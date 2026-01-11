@@ -201,3 +201,23 @@ static UpdateLevel(playerid)
     }
     return 1;
 }
+
+forward TimerUnMinuto();
+public TimerUnMinuto()
+{
+    for(new i = 0; i < MAX_PLAYERS; i++) 
+    {
+        if(IsPlayerConnected(i) && !IsPlayerNPC(i))
+        {
+            PlayerInfo[i][pSegundos] += 60;
+            
+            if(PlayerInfo[i][pSegundos] >= 3600) // 1 hora
+            {
+                PlayerInfo[i][HorasJugadas]++;
+                PlayerInfo[i][pSegundos] = 0;
+                
+            }
+        }
+    }
+    return 1;
+}

@@ -191,12 +191,10 @@ CMD:pstat(playerid, params[])
 
     if (sscanf(params, "udd", targetid, statid, cantidad))
     {
-        return Mensaje(playerid, COLOR_VERDE, "Uso: "COLOR_SERVIDOR"/pstat{FFFFFF} "COLOR_AMARILLO"[ID/Nombre] [1: Nivel | 2: Exp] [cantidad]");
+        return Mensaje(playerid, COLOR_VERDE, "Uso: "COLOR_SERVIDOR"/pstat{FFFFFF} "COLOR_AMARILLO"[ID/Nombre] [1: Nivel | 2: Exp | 3: Horas Jugadas] [cantidad]");
     }
 
     if (!IsPlayerConnected(targetid)) return Mensaje(playerid, COLOR_ALERT, "Jugador no conectado.");
-
-    // --- OPCIÓN 1: NIVEL (SET) ---
     if (statid == 1)
     {
         PlayerInfo[targetid][pLevel] = cantidad; 
@@ -206,7 +204,6 @@ CMD:pstat(playerid, params[])
         MensajeEx(playerid, COLOR_VERDE, "Has establecido el nivel de %s en %d.", NombreJugador(targetid), cantidad);
         MensajeEx(targetid, COLOR_VERDE, "El administrador %s ha establecido tu nivel en %d.", NombreJugador(playerid), cantidad);
     }
-    // --- OPCIÓN 2: EXPERIENCIA (SET) ---
     else if (statid == 2)
     {
         PlayerInfo[targetid][pExp] = cantidad; 
@@ -214,9 +211,11 @@ CMD:pstat(playerid, params[])
         MensajeEx(playerid, COLOR_VERDE, "Has establecido la experiencia de %s en %d.", NombreJugador(targetid), cantidad);
         MensajeEx(targetid, COLOR_VERDE, "El administrador %s ha establecido tu experiencia en %d.", NombreJugador(playerid), cantidad);
     }
-    else 
+    else if (statid == 3)
     {
-        return Mensaje(playerid, COLOR_ALERT, "Opción inválida. Usa 1 para Nivel o 2 para Exp.");
+        PlayerInfo[targetid][HorasJugadas] = cantidad;
+        MensajeEx(playerid, COLOR_VERDE, "Has establecido las horas jugadas de %s en %d.", NombreJugador(targetid), cantidad);
+        MensajeEx(targetid, COLOR_VERDE, "El administrador %s ha establecido tus horas jugadas en %d.", NombreJugador(playerid), cantidad);
     }
 
     new query[256], nombre_obj[MAX_PLAYER_NAME];

@@ -3,7 +3,7 @@
 #define     SERVER_LANGUAGE     "Español"
 #define     SERVER_GAMEMODE     "Super Zone"
 #define     SERVER_HOSTNAME     "[ESP] "SERVER_NAME" - [PC/Android] "SERVER_VERSION""
-#define     SERVER_VERSION      "Beta 1.1.10"
+#define     SERVER_VERSION      "Beta 1.2.1"
 #define     SERVER_OWNER        "Jcr_Isra"
 #define     SERVER_WEBSITE      "www.overzone.com"
 
@@ -17,6 +17,8 @@
 #define     COLOR_INFO          0x00CCFFAA
 #define     COLOR_VERDE         0x00FF00AA
 #define 	COLOR_BLANCO        0xFFFFFFAA
+#define     COLOR_GRIS          0xAAAAAAFF
+#define     COLOR_SERVIDOR1      0x00BCF5FF 
 
 // --- COLORS HEX --- //
 #define     COLOR_SERVIDOR         "{00BCF5}"

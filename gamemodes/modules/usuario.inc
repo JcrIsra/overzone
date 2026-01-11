@@ -27,6 +27,31 @@ CMD:estadisticas(playerid, params[])
     ShowEst(playerid, target);
     return 1;
 }
+
+CMD:duda(playerid, params[])
+{
+    new texto[128], str[256], nombre[MAX_PLAYER_NAME];
+    if(sscanf(params, "s[128]", texto)) return SendClientMessage(playerid, COLOR_GRIS, "Uso: /duda [pregunta]");
+
+    GetPlayerName(playerid, nombre, sizeof(nombre));
+    
+    format(str, sizeof(str), "[/duda]: %d %s (ID: %d) pregunta: %s", 
+        PlayerInfo[playerid][HorasJugadas], 
+        nombre, 
+        playerid, 
+        texto
+    );
+
+    for(new i = 0; i < MAX_PLAYERS; i++)
+    {
+        if(IsPlayerConnected(i)) 
+        {
+            SendClientMessage(i, COLOR_SERVIDOR1, str);
+        }
+    }
+    return 1;
+}
+
 // --- FIN CMD --- //
 
 // --- FUNCIONES --- //

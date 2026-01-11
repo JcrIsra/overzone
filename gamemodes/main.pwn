@@ -49,6 +49,8 @@ enum Info
     pDuty,
     Agonizando,
     pCreated[64],
+    HorasJugadas,
+    pSegundos,
     pLastLogin[64]
 };
 new PlayerInfo[MAX_PLAYERS][Info];
@@ -106,7 +108,6 @@ main()
     printf("  Versión: %s", SERVER_VERSION);
     printf("  Autor: %s", dev_name);
     printf("  Desarrollado por: %s", dev_name);
-    print("  Página: %s", SERVER_WEBSITE); 
     print("=======================================");
     
     return 1; 
@@ -137,6 +138,10 @@ public OnGameModeInit()
 	{
 		print("Conexion a la base de datos exitosa");
 	}
+
+    // --- TIMERES --- //
+    SetTimer("TimerUnMinuto", 60000, true); // Se ejecuta cada 60 segundos
+    
     return 1;
 }
 
@@ -337,7 +342,7 @@ public OnPlayerDisconnect(playerid, reason)
     GetPlayerArmour(playerid, chaleco);
 
     mysql_format(conexion, query, sizeof(query),
-        "UPDATE usuarios SET skin=%d, x=%f, y=%f, z=%f, a=%f, dinero=%d, vida=%f, chaleco=%f, nivel=%d, exp=%d, last_login=NOW() WHERE nombre='%e'",
+        "UPDATE usuarios SET skin=%d, x=%f, y=%f, z=%f, a=%f, dinero=%d, vida=%f, chaleco=%f, nivel=%d, exp=%d, horas=%d, last_login=NOW() WHERE nombre='%e'",
         GetPlayerSkin(playerid),
         x, y, z, a,
         GetPlayerMoney(playerid),
@@ -345,11 +350,11 @@ public OnPlayerDisconnect(playerid, reason)
         chaleco,
         PlayerInfo[playerid][pLevel],
         PlayerInfo[playerid][pExp],
+        PlayerInfo[playerid][HorasJugadas], 
         nombre
     );
     mysql_tquery(conexion, query, "", "");
 
-    // Actualizar también la información local de última conexión
     new year, month, day, hour, minute, second;
     getdate(year, month, day);
     gettime(hour, minute, second);
@@ -470,6 +475,7 @@ public CargarDatosJugador(playerid)
         cache_get_value_name_int(0, "licenses", PlayerInfo[playerid][pLicenses]);
         cache_get_value_name_int(0, "nivel", PlayerInfo[playerid][pLevel]);
         cache_get_value_name_int(0, "exp", PlayerInfo[playerid][pExp]);
+        cache_get_value_name_int(0, "horas", PlayerInfo[playerid][HorasJugadas]);
         cache_get_value_name_float(0, "vida", PlayerInfo[playerid][pVida]);
         cache_get_value_name_float(0, "chaleco", PlayerInfo[playerid][pChaleco]);
         cache_get_value_name_int(0, "admin", PlayerInfo[playerid][pAdmin]);
