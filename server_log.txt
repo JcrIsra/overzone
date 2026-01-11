@@ -1,0 +1,3388 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:29:08] filterscripts = ""  (string)
+[20:29:08] 
+[20:29:08] Server Plugins
+[20:29:08] --------------
+[20:29:08]  Loaded 0 plugins.
+
+[20:29:08] 
+[20:29:08] Filterscripts
+[20:29:08] ---------------
+[20:29:08]   Loaded 0 filterscripts.
+
+[20:29:08] Script[gamemodes/main.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[20:29:08] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:38:12] filterscripts = ""  (string)
+[20:38:12] 
+[20:38:12] Server Plugins
+[20:38:12] --------------
+[20:38:12]  Loaded 0 plugins.
+
+[20:38:12] 
+[20:38:12] Filterscripts
+[20:38:12] ---------------
+[20:38:12]   Loaded 0 filterscripts.
+
+[20:38:12] =======================================
+[20:38:12]   OverZone RP - Gamemode Inicializada  
+[20:38:12]   Nombre: OverZone
+[20:38:12]   Versi贸n: Beta 1.0
+[20:38:12]   Autor: Jcr
+[20:38:12] =======================================
+[20:38:12] Number of vehicle models: 0
+[20:39:44] [connection] incoming connection: 127.0.0.1:61099 id: 0
+[20:39:46] [join] Jcr_Isra has joined the server (0:127.0.0.1)
+[20:39:46] [OverZone RP] Jcr_Isra se ha conectado al servidor.
+[20:40:49] [OverZone RP] Jcr_Isra se ha desconectado. Motivo: 1
+[20:40:49] [part] Jcr_Isra has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:45:35] filterscripts = ""  (string)
+[20:45:35] 
+[20:45:35] Server Plugins
+[20:45:35] --------------
+[20:45:35]  Loaded 0 plugins.
+
+[20:45:35] 
+[20:45:35] Filterscripts
+[20:45:35] ---------------
+[20:45:35]   Loaded 0 filterscripts.
+
+[20:45:35] Script[gamemodes/main.amx]: Run time error 19: "File or function is not found"
+[20:45:35] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:46:27] filterscripts = ""  (string)
+[20:46:27] 
+[20:46:27] Server Plugins
+[20:46:27] --------------
+[20:46:27]  Loaded 0 plugins.
+
+[20:46:27] 
+[20:46:27] Filterscripts
+[20:46:27] ---------------
+[20:46:27]   Loaded 0 filterscripts.
+
+[20:46:27] Script[gamemodes/main.amx]: Run time error 19: "File or function is not found"
+[20:46:27] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:46:43] filterscripts = ""  (string)
+[20:46:43] 
+[20:46:43] Server Plugins
+[20:46:43] --------------
+[20:46:43]  Loaded 0 plugins.
+
+[20:46:43] 
+[20:46:43] Filterscripts
+[20:46:43] ---------------
+[20:46:43]   Loaded 0 filterscripts.
+
+[20:46:43] Script[gamemodes/main.amx]: Run time error 19: "File or function is not found"
+[20:46:43] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:49:06] filterscripts = ""  (string)
+[20:49:06] 
+[20:49:06] Server Plugins
+[20:49:06] --------------
+[20:49:06]  Loaded 0 plugins.
+
+[20:49:06] 
+[20:49:06] Filterscripts
+[20:49:06] ---------------
+[20:49:06]   Loaded 0 filterscripts.
+
+[20:49:06] Script[gamemodes/main.amx]: Run time error 19: "File or function is not found"
+[20:49:06] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:50:11] filterscripts = ""  (string)
+[20:50:11] 
+[20:50:11] Server Plugins
+[20:50:11] --------------
+[20:50:11]  Loaded 0 plugins.
+
+[20:50:11] 
+[20:50:11] Filterscripts
+[20:50:11] ---------------
+[20:50:11]   Loaded 0 filterscripts.
+
+[20:50:11] Script[gamemodes/main.amx]: Run time error 19: "File or function is not found"
+[20:50:11] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:50:38] filterscripts = ""  (string)
+[20:50:38] 
+[20:50:38] Server Plugins
+[20:50:38] --------------
+[20:50:38]  Loaded 0 plugins.
+
+[20:50:38] 
+[20:50:38] Filterscripts
+[20:50:38] ---------------
+[20:50:38]   Loaded 0 filterscripts.
+
+[20:50:38] =======================================
+[20:50:38]   OverZone RP - Gamemode Inicializada  
+[20:50:38]   Nombre: OverZone
+[20:50:38]   Versi贸n: Beta 1.0
+[20:50:38]   Autor: Jcr
+[20:50:38] =======================================
+[20:50:38] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:53:40] filterscripts = ""  (string)
+[20:53:40] 
+[20:53:40] Server Plugins
+[20:53:40] --------------
+[20:53:40]  Loading plugin: crashdetect.dll
+[20:53:40]   Failed.
+[20:53:40]  Loading plugin: sscanf.dll
+[20:53:40]   Failed.
+[20:53:40]  Loaded 0 plugins.
+
+[20:53:40] 
+[20:53:40] Filterscripts
+[20:53:40] ---------------
+[20:53:40]   Loaded 0 filterscripts.
+
+[20:53:40] Script[gamemodes/main.amx]: Run time error 19: "File or function is not found"
+[20:53:40] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:02:29] filterscripts = ""  (string)
+[21:02:29] 
+[21:02:29] Server Plugins
+[21:02:29] --------------
+[21:02:29]  Loading plugin: crashdetect.dll
+[21:02:30]   CrashDetect plugin 4.19.4
+[21:02:30]   Loaded.
+[21:02:30]  Loading plugin: sscanf.dll
+[21:02:30] 
+
+[21:02:30]  ===============================
+
+[21:02:30]       sscanf plugin loaded.     
+
+[21:02:30]          Version:  2.8.2        
+
+[21:02:30]    (c) 2012 Alex "Y_Less" Cole  
+
+[21:02:30]  ===============================
+
+[21:02:30]   Loaded.
+[21:02:30]  Loaded 2 plugins.
+
+[21:02:30] 
+[21:02:30] Filterscripts
+[21:02:30] ---------------
+[21:02:30]   Loaded 0 filterscripts.
+
+[21:02:30] =======================================
+[21:02:30]   OverZone RP - Gamemode Inicializada  
+[21:02:30]   Nombre: OverZone
+[21:02:30]   Versi贸n: Beta 1.0
+[21:02:30]   Autor: Jcr
+[21:02:30] =======================================
+[21:02:30] Number of vehicle models: 0
+[21:53:02] [connection] incoming connection: 127.0.0.1:49312 id: 0
+[21:53:03] [join] Jcr_Isra has joined the server (0:127.0.0.1)
+[21:53:03] [OverZone RP] Jcr_Isra se ha conectado al servidor.
+[21:53:51] [OverZone RP] Jcr_Isra se ha desconectado. Motivo: 1
+[21:53:51] [part] Jcr_Isra has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:56:15] filterscripts = ""  (string)
+[21:56:15] 
+[21:56:15] Server Plugins
+[21:56:15] --------------
+[21:56:15]  Loading plugin: crashdetect.dll
+[21:56:15]   CrashDetect plugin 4.19.4
+[21:56:15]   Loaded.
+[21:56:15]  Loading plugin: sscanf.dll
+[21:56:15] 
+
+[21:56:15]  ===============================
+
+[21:56:15]       sscanf plugin loaded.     
+
+[21:56:15]          Version:  2.8.2        
+
+[21:56:15]    (c) 2012 Alex "Y_Less" Cole  
+
+[21:56:15]  ===============================
+
+[21:56:15]   Loaded.
+[21:56:15]  Loaded 2 plugins.
+
+[21:56:15] 
+[21:56:15] Filterscripts
+[21:56:15] ---------------
+[21:56:15]   Loaded 0 filterscripts.
+
+[21:56:15] =======================================
+[21:56:15]   OverZone RP - Gamemode Inicializada  
+[21:56:15]   Nombre: OverZone
+[21:56:15]   Versi贸n: Beta 1.0
+[21:56:15]   Autor: Jcr
+[21:56:15] =======================================
+[21:56:15] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:57:41] filterscripts = ""  (string)
+[21:57:41] 
+[21:57:41] Server Plugins
+[21:57:41] --------------
+[21:57:41]  Loading plugin: crashdetect.dll
+[21:57:41]   CrashDetect plugin 4.19.4
+[21:57:41]   Loaded.
+[21:57:41]  Loading plugin: sscanf.dll
+[21:57:41] 
+
+[21:57:41]  ===============================
+
+[21:57:41]       sscanf plugin loaded.     
+
+[21:57:41]          Version:  2.8.2        
+
+[21:57:41]    (c) 2012 Alex "Y_Less" Cole  
+
+[21:57:41]  ===============================
+
+[21:57:41]   Loaded.
+[21:57:41]  Loaded 2 plugins.
+
+[21:57:41] 
+[21:57:41] Filterscripts
+[21:57:41] ---------------
+[21:57:41]   Loaded 0 filterscripts.
+
+[21:57:41] =======================================
+[21:57:41]   OverZone RP - Gamemode Inicializada  
+[21:57:41]   Nombre: OverZone
+[21:57:41]   Versi髇: Beta 1.0
+[21:57:41]   Autor: Jcr
+[21:57:41] =======================================
+[21:57:41] Number of vehicle models: 0
+[21:58:06] [connection] incoming connection: 127.0.0.1:65452 id: 0
+[21:58:06] [join] Jcr_Isra has joined the server (0:127.0.0.1)
+[21:58:06] [OverZone RP] Jcr_Isra se ha conectado al servidor.
+[21:58:39] [OverZone RP] Jcr_Isra se ha desconectado. Motivo: 1
+[21:58:39] [part] Jcr_Isra has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:01:22] filterscripts = ""  (string)
+[22:01:22] 
+[22:01:22] Server Plugins
+[22:01:22] --------------
+[22:01:22]  Loading plugin: crashdetect.dll
+[22:01:22]   CrashDetect plugin 4.19.4
+[22:01:22]   Loaded.
+[22:01:22]  Loading plugin: sscanf.dll
+[22:01:22] 
+
+[22:01:22]  ===============================
+
+[22:01:22]       sscanf plugin loaded.     
+
+[22:01:22]          Version:  2.8.2        
+
+[22:01:22]    (c) 2012 Alex "Y_Less" Cole  
+
+[22:01:22]  ===============================
+
+[22:01:22]   Loaded.
+[22:01:22]  Loaded 2 plugins.
+
+[22:01:22] 
+[22:01:22] Filterscripts
+[22:01:22] ---------------
+[22:01:22]   Loaded 0 filterscripts.
+
+[22:01:22] =======================================
+[22:01:22]   OverZone RP - Gamemode Inicializada  
+[22:01:22]   Nombre: OverZone
+[22:01:22]   Versi髇: Beta 1.0
+[22:01:22]   Autor: Jcr
+[22:01:22] =======================================
+[22:01:22] Number of vehicle models: 0
+[22:01:45] [connection] incoming connection: 127.0.0.1:58194 id: 0
+[22:01:45] [join] Jcr_Isra has joined the server (0:127.0.0.1)
+[22:01:45] [OverZone RP] Jcr_Isra se ha conectado al servidor.
+[22:05:12] [OverZone RP] Jcr_Isra se ha desconectado. Motivo: 1
+[22:05:12] [part] Jcr_Isra has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:32:01] filterscripts = ""  (string)
+[22:32:01] 
+[22:32:01] Server Plugins
+[22:32:01] --------------
+[22:32:01]  Loading plugin: crashdetect.dll
+[22:32:01]   CrashDetect plugin 4.19.4
+[22:32:01]   Loaded.
+[22:32:01]  Loading plugin: sscanf.dll
+[22:32:01] 
+
+[22:32:01]  ===============================
+
+[22:32:01]       sscanf plugin loaded.     
+
+[22:32:01]          Version:  2.8.2        
+
+[22:32:01]    (c) 2012 Alex "Y_Less" Cole  
+
+[22:32:01]  ===============================
+
+[22:32:01]   Loaded.
+[22:32:01]  Loading plugin: mysql.dll
+[22:32:02]   Failed.
+[22:32:02]  Loaded 2 plugins.
+
+[22:32:02] 
+[22:32:02] Filterscripts
+[22:32:02] ---------------
+[22:32:02]   Loaded 0 filterscripts.
+
+[22:32:02] [debug] Run time error 19: "File or function is not found"
+[22:32:02] [debug]  mysql_connect
+[22:32:02] [debug] Run time error 19: "File or function is not found"
+[22:32:02] [debug]  mysql_connect
+[22:32:02] Script[gamemodes/main.amx]: Run time error 19: "File or function is not found"
+[22:32:02] Number of vehicle models: 0
+[22:32:20] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:35:12] filterscripts = ""  (string)
+[22:35:12] 
+[22:35:12] Server Plugins
+[22:35:12] --------------
+[22:35:12]  Loading plugin: crashdetect.dll
+[22:35:12]   CrashDetect plugin 4.19.4
+[22:35:12]   Loaded.
+[22:35:12]  Loading plugin: sscanf.dll
+[22:35:12] 
+
+[22:35:12]  ===============================
+
+[22:35:12]       sscanf plugin loaded.     
+
+[22:35:12]          Version:  2.8.2        
+
+[22:35:12]    (c) 2012 Alex "Y_Less" Cole  
+
+[22:35:12]  ===============================
+
+[22:35:12]   Loaded.
+[22:35:12]  Loading plugin: mysql.dll
+[22:35:12]   Failed.
+[22:35:12]  Loaded 2 plugins.
+
+[22:35:12] 
+[22:35:12] Filterscripts
+[22:35:12] ---------------
+[22:35:12]   Loaded 0 filterscripts.
+
+[22:35:12] [debug] Run time error 19: "File or function is not found"
+[22:35:12] [debug]  mysql_connect
+[22:35:12] [debug] Run time error 19: "File or function is not found"
+[22:35:12] [debug]  mysql_connect
+[22:35:12] Script[gamemodes/main.amx]: Run time error 19: "File or function is not found"
+[22:35:12] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:58:04] filterscripts = ""  (string)
+[22:58:04] 
+[22:58:04] Server Plugins
+[22:58:04] --------------
+[22:58:04]  Loading plugin: crashdetect.dll
+[22:58:04]   CrashDetect plugin 4.19.4
+[22:58:04]   Loaded.
+[22:58:04]  Loading plugin: sscanf.dll
+[22:58:04] 
+
+[22:58:04]  ===============================
+
+[22:58:04]       sscanf plugin loaded.     
+
+[22:58:04]          Version:  2.8.2        
+
+[22:58:04]    (c) 2012 Alex "Y_Less" Cole  
+
+[22:58:04]  ===============================
+
+[22:58:04]   Loaded.
+[22:58:04]  Loading plugin: mysql.dll
+[22:58:04]   Failed.
+[22:58:04]  Loaded 2 plugins.
+
+[22:58:04] 
+[22:58:04] Filterscripts
+[22:58:04] ---------------
+[22:58:04]   Loaded 0 filterscripts.
+
+[22:58:04] [debug] Run time error 19: "File or function is not found"
+[22:58:04] [debug]  mysql_connect
+[22:58:04] [debug]  mysql_errno
+[22:58:04] [debug] Run time error 19: "File or function is not found"
+[22:58:04] [debug]  mysql_connect
+[22:58:04] [debug]  mysql_errno
+[22:58:04] Script[gamemodes/main.amx]: Run time error 19: "File or function is not found"
+[22:58:04] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:00:59] filterscripts = ""  (string)
+[23:00:59] 
+[23:00:59] Server Plugins
+[23:00:59] --------------
+[23:00:59]  Loading plugin: crashdetect.dll
+[23:00:59]   CrashDetect plugin 4.19.4
+[23:00:59]   Loaded.
+[23:00:59]  Loading plugin: sscanf.dll
+[23:00:59] 
+
+[23:00:59]  ===============================
+
+[23:00:59]       sscanf plugin loaded.     
+
+[23:00:59]          Version:  2.8.2        
+
+[23:00:59]    (c) 2012 Alex "Y_Less" Cole  
+
+[23:00:59]  ===============================
+
+[23:00:59]   Loaded.
+[23:00:59]  Loading plugin: mysql.dll
+[23:00:59]  >> plugin.mysql: R41-4 successfully loaded.
+[23:00:59]   Loaded.
+[23:00:59]  Loaded 3 plugins.
+
+[23:01:00] 
+[23:01:00] Filterscripts
+[23:01:00] ---------------
+[23:01:00]   Loaded 0 filterscripts.
+
+[23:01:00] Conexion a la base de datos exitosa
+[23:01:00] =======================================
+[23:01:00]   OverZone RP - Gamemode Inicializada  
+[23:01:00]   Nombre: OverZone
+[23:01:00]   Versi髇: Beta 1.0
+[23:01:00]   Autor: Jcr
+[23:01:00] =======================================
+[23:01:00] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:40:52] filterscripts = ""  (string)
+[00:40:52] 
+[00:40:52] Server Plugins
+[00:40:52] --------------
+[00:40:52]  Loading plugin: crashdetect.dll
+[00:40:53]   CrashDetect plugin 4.19.4
+[00:40:53]   Loaded.
+[00:40:53]  Loading plugin: sscanf.dll
+[00:40:53] 
+
+[00:40:53]  ===============================
+
+[00:40:53]       sscanf plugin loaded.     
+
+[00:40:53]          Version:  2.8.2        
+
+[00:40:53]    (c) 2012 Alex "Y_Less" Cole  
+
+[00:40:53]  ===============================
+
+[00:40:53]   Loaded.
+[00:40:53]  Loading plugin: mysql.dll
+[00:40:54]  >> plugin.mysql: R41-4 successfully loaded.
+[00:40:54]   Loaded.
+[00:40:54]  Loaded 3 plugins.
+
+[00:40:54] 
+[00:40:54] Filterscripts
+[00:40:54] ---------------
+[00:40:54]   Loaded 0 filterscripts.
+
+[00:40:54] Conexion a la base de datos exitosa
+[00:40:54] =======================================
+[00:40:54]   OverZone RP - Gamemode Inicializada  
+[00:40:54]   Nombre: OverZone
+[00:40:54]   Versi髇: Beta 1.0
+[00:40:54]   Autor: Jcr
+[00:40:54] =======================================
+[00:40:54] Number of vehicle models: 0
+[00:42:37] [connection] incoming connection: 127.0.0.1:52525 id: 0
+[00:42:37] [join] Jcr_Isra has joined the server (0:127.0.0.1)
+[00:43:26] [part] Jcr_Isra has left the server (0:1)
+[00:44:45] [connection] incoming connection: 127.0.0.1:54741 id: 0
+[00:44:45] [join] Jcr_Isra has joined the server (0:127.0.0.1)
+[00:45:25] [part] Jcr_Isra has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:56:37] filterscripts = ""  (string)
+[12:56:37] 
+[12:56:37] Server Plugins
+[12:56:37] --------------
+[12:56:37]  Loading plugin: crashdetect.dll
+[12:56:37]   CrashDetect plugin 4.19.4
+[12:56:37]   Loaded.
+[12:56:37]  Loading plugin: sscanf.dll
+[12:56:37] 
+
+[12:56:37]  ===============================
+
+[12:56:37]       sscanf plugin loaded.     
+
+[12:56:37]          Version:  2.8.2        
+
+[12:56:37]    (c) 2012 Alex "Y_Less" Cole  
+
+[12:56:37]  ===============================
+
+[12:56:37]   Loaded.
+[12:56:37]  Loading plugin: mysql.dll
+[12:56:38]  >> plugin.mysql: R41-4 successfully loaded.
+[12:56:38]   Loaded.
+[12:56:38]  Loaded 3 plugins.
+
+[12:56:38] 
+[12:56:38] Filterscripts
+[12:56:38] ---------------
+[12:56:38]   Loaded 0 filterscripts.
+
+[12:56:54] Conexion a la base de datos fallida
+[12:56:54] =======================================
+[12:56:54]   OverZone RP - Gamemode Inicializada  
+[12:56:54]   Nombre: OverZone
+[12:56:54]   Versi髇: Beta 1.0
+[12:56:54]   Autor: Jcr
+[12:56:54] =======================================
+[12:56:54] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:12:04] filterscripts = ""  (string)
+[13:12:04] 
+[13:12:04] Server Plugins
+[13:12:04] --------------
+[13:12:04]  Loading plugin: crashdetect.dll
+[13:12:04]   CrashDetect plugin 4.19.4
+[13:12:04]   Loaded.
+[13:12:04]  Loading plugin: sscanf.dll
+[13:12:04] 
+
+[13:12:04]  ===============================
+
+[13:12:04]       sscanf plugin loaded.     
+
+[13:12:04]          Version:  2.8.2        
+
+[13:12:04]    (c) 2012 Alex "Y_Less" Cole  
+
+[13:12:04]  ===============================
+
+[13:12:04]   Loaded.
+[13:12:04]  Loading plugin: mysql.dll
+[13:12:04]  >> plugin.mysql: R41-4 successfully loaded.
+[13:12:04]   Loaded.
+[13:12:04]  Loaded 3 plugins.
+
+[13:12:04] 
+[13:12:04] Filterscripts
+[13:12:04] ---------------
+[13:12:04]   Loaded 0 filterscripts.
+
+[13:12:04] Conexion a la base de datos exitosa
+[13:12:04] =======================================
+[13:12:04]   OverZone RP - Gamemode Inicializada  
+[13:12:04]   Nombre: OverZone
+[13:12:04]   Versi髇: Beta 1.0
+[13:12:04]   Autor: Jcr
+[13:12:04] =======================================
+[13:12:04] Number of vehicle models: 0
+[13:13:26] [connection] incoming connection: 127.0.0.1:63600 id: 0
+[13:13:27] [join] Jcr_Isra has joined the server (0:127.0.0.1)
+[13:14:09] [part] Jcr_Isra has left the server (0:1)
+[13:16:18] [connection] incoming connection: 127.0.0.1:52746 id: 0
+[13:16:18] [join] Jcr_Isra has joined the server (0:127.0.0.1)
+[13:16:29] [part] Jcr_Isra has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:21:26] filterscripts = ""  (string)
+[13:21:26] 
+[13:21:26] Server Plugins
+[13:21:26] --------------
+[13:21:26]  Loading plugin: crashdetect.dll
+[13:21:26]   CrashDetect plugin 4.19.4
+[13:21:26]   Loaded.
+[13:21:26]  Loading plugin: sscanf.dll
+[13:21:26] 
+
+[13:21:26]  ===============================
+
+[13:21:26]       sscanf plugin loaded.     
+
+[13:21:26]          Version:  2.8.2        
+
+[13:21:26]    (c) 2012 Alex "Y_Less" Cole  
+
+[13:21:26]  ===============================
+
+[13:21:26]   Loaded.
+[13:21:26]  Loading plugin: mysql.dll
+[13:21:26]  >> plugin.mysql: R41-4 successfully loaded.
+[13:21:26]   Loaded.
+[13:21:26]  Loaded 3 plugins.
+
+[13:21:26] 
+[13:21:26] Filterscripts
+[13:21:26] ---------------
+[13:21:26]   Loaded 0 filterscripts.
+
+[13:21:26] Conexion a la base de datos exitosa
+[13:21:26] =======================================
+[13:21:26]   OverZone RP - Gamemode Inicializada  
+[13:21:26]   Nombre: OverZone
+[13:21:26]   Versi髇: Beta 1.0
+[13:21:26]   Autor: Jcr
+[13:21:26] =======================================
+[13:21:26] Number of vehicle models: 0
+[13:21:52] [connection] incoming connection: 127.0.0.1:55684 id: 0
+[13:21:52] [join] Jcr_Isra has joined the server (0:127.0.0.1)
+[13:22:07] [part] Jcr_Isra has left the server (0:1)
+[13:22:43] [connection] incoming connection: 127.0.0.1:56390 id: 0
+[13:22:44] [join] Jcr_Isra has joined the server (0:127.0.0.1)
+[13:23:27] [part] Jcr_Isra has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:30:38] filterscripts = ""  (string)
+[13:30:38] 
+[13:30:38] Server Plugins
+[13:30:38] --------------
+[13:30:38]  Loading plugin: crashdetect.dll
+[13:30:38]   CrashDetect plugin 4.19.4
+[13:30:38]   Loaded.
+[13:30:38]  Loading plugin: sscanf.dll
+[13:30:38] 
+
+[13:30:38]  ===============================
+
+[13:30:38]       sscanf plugin loaded.     
+
+[13:30:38]          Version:  2.8.2        
+
+[13:30:38]    (c) 2012 Alex "Y_Less" Cole  
+
+[13:30:38]  ===============================
+
+[13:30:38]   Loaded.
+[13:30:38]  Loading plugin: mysql.dll
+[13:30:38]  >> plugin.mysql: R41-4 successfully loaded.
+[13:30:38]   Loaded.
+[13:30:38]  Loaded 3 plugins.
+
+[13:30:38] 
+[13:30:38] Filterscripts
+[13:30:38] ---------------
+[13:30:38]   Loaded 0 filterscripts.
+
+[13:30:38] Conexion a la base de datos exitosa
+[13:30:38] =======================================
+[13:30:38]   OverZone RP - Gamemode Inicializada  
+[13:30:38]   Nombre: OverZone
+[13:30:38]   Versi髇: Beta 1.0
+[13:30:38]   Autor: Jcr
+[13:30:38] =======================================
+[13:30:38] Number of vehicle models: 0
+[13:31:03] [connection] incoming connection: 127.0.0.1:56938 id: 0
+[13:31:03] [join] Jcr_Isra has joined the server (0:127.0.0.1)
+[13:31:30] [part] Jcr_Isra has left the server (0:1)
+[13:32:09] [connection] incoming connection: 127.0.0.1:57541 id: 0
+[13:32:09] [join] Jcr_Isra has joined the server (0:127.0.0.1)
+[13:32:55] [part] Jcr_Isra has left the server (0:1)
+[13:33:17] [connection] incoming connection: 127.0.0.1:52738 id: 0
+[13:33:18] [join] Jcr_Isra has joined the server (0:127.0.0.1)
+[13:33:27] [part] Jcr_Isra has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:46:16] filterscripts = ""  (string)
+[13:46:16] 
+[13:46:16] Server Plugins
+[13:46:16] --------------
+[13:46:16]  Loading plugin: crashdetect.dll
+[13:46:16]   CrashDetect plugin 4.19.4
+[13:46:16]   Loaded.
+[13:46:16]  Loading plugin: sscanf.dll
+[13:46:16] 
+
+[13:46:16]  ===============================
+
+[13:46:16]       sscanf plugin loaded.     
+
+[13:46:16]          Version:  2.8.2        
+
+[13:46:16]    (c) 2012 Alex "Y_Less" Cole  
+
+[13:46:16]  ===============================
+
+[13:46:16]   Loaded.
+[13:46:16]  Loading plugin: mysql.dll
+[13:46:16]  >> plugin.mysql: R41-4 successfully loaded.
+[13:46:16]   Loaded.
+[13:46:16]  Loaded 3 plugins.
+
+[13:46:16] 
+[13:46:16] Filterscripts
+[13:46:16] ---------------
+[13:46:16]   Loaded 0 filterscripts.
+
+[13:46:16] Conexion a la base de datos exitosa
+[13:46:16] =======================================
+[13:46:16]   OverZone RP - Gamemode Inicializada  
+[13:46:16]   Nombre: OverZone
+[13:46:16]   Versi髇: Beta 1.0
+[13:46:16]   Autor: Jcr
+[13:46:16] =======================================
+[13:46:16] Number of vehicle models: 0
+[13:46:42] [connection] incoming connection: 127.0.0.1:57431 id: 0
+[13:46:42] [join] Jcr_Isra has joined the server (0:127.0.0.1)
+[13:47:30] [part] Jcr_Isra has left the server (0:1)
+[13:47:53] [connection] incoming connection: 127.0.0.1:55131 id: 0
+[13:47:53] [join] Jcr_Isra has joined the server (0:127.0.0.1)
+[13:48:08] [part] Jcr_Isra has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:53:11] filterscripts = ""  (string)
+[13:53:11] 
+[13:53:11] Server Plugins
+[13:53:11] --------------
+[13:53:11]  Loading plugin: crashdetect.dll
+[13:53:11]   CrashDetect plugin 4.19.4
+[13:53:11]   Loaded.
+[13:53:11]  Loading plugin: sscanf.dll
+[13:53:11] 
+
+[13:53:11]  ===============================
+
+[13:53:11]       sscanf plugin loaded.     
+
+[13:53:11]          Version:  2.8.2        
+
+[13:53:11]    (c) 2012 Alex "Y_Less" Cole  
+
+[13:53:11]  ===============================
+
+[13:53:11]   Loaded.
+[13:53:11]  Loading plugin: mysql.dll
+[13:53:11]  >> plugin.mysql: R41-4 successfully loaded.
+[13:53:11]   Loaded.
+[13:53:11]  Loaded 3 plugins.
+
+[13:53:11] 
+[13:53:11] Filterscripts
+[13:53:11] ---------------
+[13:53:11]   Loaded 0 filterscripts.
+
+[13:53:11] Conexion a la base de datos exitosa
+[13:53:11] =======================================
+[13:53:11]   OverZone RP - Gamemode Inicializada  
+[13:53:11]   Nombre: OverZone
+[13:53:11]   Versi髇: Beta 1.0
+[13:53:11]   Autor: Jcr
+[13:53:11] =======================================
+[13:53:11] Number of vehicle models: 0
+[13:53:36] [connection] incoming connection: 127.0.0.1:54169 id: 0
+[13:53:36] [join] Jcr_Isra has joined the server (0:127.0.0.1)
+[13:53:45] [part] Jcr_Isra has left the server (0:1)
+[13:54:35] [connection] incoming connection: 127.0.0.1:58835 id: 0
+[13:54:36] [join] Jcr_Isra has joined the server (0:127.0.0.1)
+[13:55:18] [part] Jcr_Isra has left the server (0:1)
+[13:55:40] [connection] incoming connection: 127.0.0.1:50650 id: 0
+[13:55:41] [join] Jcr_Isra has joined the server (0:127.0.0.1)
+[13:55:56] [part] Jcr_Isra has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:01:31] filterscripts = ""  (string)
+[14:01:31] 
+[14:01:31] Server Plugins
+[14:01:31] --------------
+[14:01:31]  Loading plugin: crashdetect.dll
+[14:01:31]   CrashDetect plugin 4.19.4
+[14:01:31]   Loaded.
+[14:01:31]  Loading plugin: sscanf.dll
+[14:01:31] 
+
+[14:01:31]  ===============================
+
+[14:01:31]       sscanf plugin loaded.     
+
+[14:01:31]          Version:  2.8.2        
+
+[14:01:31]    (c) 2012 Alex "Y_Less" Cole  
+
+[14:01:31]  ===============================
+
+[14:01:31]   Loaded.
+[14:01:31]  Loading plugin: mysql.dll
+[14:01:31]  >> plugin.mysql: R41-4 successfully loaded.
+[14:01:31]   Loaded.
+[14:01:31]  Loaded 3 plugins.
+
+[14:01:31] 
+[14:01:31] Filterscripts
+[14:01:31] ---------------
+[14:01:31]   Loaded 0 filterscripts.
+
+[14:01:31] Conexion a la base de datos exitosa
+[14:01:31] =======================================
+[14:01:31]   OverZone RP - Gamemode Inicializada  
+[14:01:31]   Nombre: OverZone
+[14:01:31]   Versi髇: Beta 1.0
+[14:01:31]   Autor: Jcr
+[14:01:31] =======================================
+[14:01:31] Number of vehicle models: 0
+[14:02:00] [connection] incoming connection: 127.0.0.1:55963 id: 0
+[14:02:00] [join] Jcr_Isra has joined the server (0:127.0.0.1)
+[14:02:21] [part] Jcr_Isra has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:05:20] filterscripts = ""  (string)
+[14:05:20] 
+[14:05:20] Server Plugins
+[14:05:20] --------------
+[14:05:20]  Loading plugin: crashdetect.dll
+[14:05:20]   CrashDetect plugin 4.19.4
+[14:05:20]   Loaded.
+[14:05:20]  Loading plugin: sscanf.dll
+[14:05:20] 
+
+[14:05:20]  ===============================
+
+[14:05:20]       sscanf plugin loaded.     
+
+[14:05:20]          Version:  2.8.2        
+
+[14:05:20]    (c) 2012 Alex "Y_Less" Cole  
+
+[14:05:20]  ===============================
+
+[14:05:20]   Loaded.
+[14:05:20]  Loading plugin: mysql.dll
+[14:05:20]  >> plugin.mysql: R41-4 successfully loaded.
+[14:05:20]   Loaded.
+[14:05:20]  Loaded 3 plugins.
+
+[14:05:20] 
+[14:05:20] Filterscripts
+[14:05:20] ---------------
+[14:05:20]   Loaded 0 filterscripts.
+
+[14:05:20] Conexion a la base de datos exitosa
+[14:05:20] =======================================
+[14:05:20]   OverZone RP - Gamemode Inicializada  
+[14:05:20]   Nombre: OverZone
+[14:05:20]   Versi髇: Beta 1.0
+[14:05:20]   Autor: Jcr
+[14:05:20] =======================================
+[14:05:20] Number of vehicle models: 0
+[14:05:43] [connection] incoming connection: 127.0.0.1:58011 id: 0
+[14:05:44] [join] Jcr_Isra has joined the server (0:127.0.0.1)
+[14:06:21] [part] Jcr_Isra has left the server (0:1)
+[14:06:53] [connection] incoming connection: 127.0.0.1:55493 id: 0
+[14:06:53] [join] Jcr_Isra has joined the server (0:127.0.0.1)
+[14:07:17] [part] Jcr_Isra has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:07:54] filterscripts = ""  (string)
+[14:07:54] 
+[14:07:54] Server Plugins
+[14:07:54] --------------
+[14:07:54]  Loading plugin: crashdetect.dll
+[14:07:54]   CrashDetect plugin 4.19.4
+[14:07:54]   Loaded.
+[14:07:54]  Loading plugin: sscanf.dll
+[14:07:54] 
+
+[14:07:54]  ===============================
+
+[14:07:54]       sscanf plugin loaded.     
+
+[14:07:54]          Version:  2.8.2        
+
+[14:07:54]    (c) 2012 Alex "Y_Less" Cole  
+
+[14:07:54]  ===============================
+
+[14:07:54]   Loaded.
+[14:07:54]  Loading plugin: mysql.dll
+[14:07:54]  >> plugin.mysql: R41-4 successfully loaded.
+[14:07:54]   Loaded.
+[14:07:54]  Loaded 3 plugins.
+
+[14:07:54] 
+[14:07:54] Filterscripts
+[14:07:54] ---------------
+[14:07:54]   Loaded 0 filterscripts.
+
+[14:07:54] Conexion a la base de datos exitosa
+[14:07:54] =======================================
+[14:07:54]   OverZone RP - Gamemode Inicializada  
+[14:07:54]   Nombre: OverZone
+[14:07:54]   Versi髇: Beta 1.0
+[14:07:54]   Autor: Jcr
+[14:07:54] =======================================
+[14:07:54] Number of vehicle models: 0
+[14:08:20] [connection] incoming connection: 127.0.0.1:52772 id: 0
+[14:08:20] [join] Jcr_Isra has joined the server (0:127.0.0.1)
+[14:08:45] [part] Jcr_Isra has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:13:48] filterscripts = ""  (string)
+[14:13:48] 
+[14:13:48] Server Plugins
+[14:13:48] --------------
+[14:13:48]  Loading plugin: crashdetect.dll
+[14:13:48]   CrashDetect plugin 4.19.4
+[14:13:48]   Loaded.
+[14:13:48]  Loading plugin: sscanf.dll
+[14:13:48] 
+
+[14:13:48]  ===============================
+
+[14:13:48]       sscanf plugin loaded.     
+
+[14:13:48]          Version:  2.8.2        
+
+[14:13:48]    (c) 2012 Alex "Y_Less" Cole  
+
+[14:13:48]  ===============================
+
+[14:13:48]   Loaded.
+[14:13:48]  Loading plugin: mysql.dll
+[14:13:48]  >> plugin.mysql: R41-4 successfully loaded.
+[14:13:48]   Loaded.
+[14:13:48]  Loaded 3 plugins.
+
+[14:13:48] 
+[14:13:48] Filterscripts
+[14:13:48] ---------------
+[14:13:48]   Loaded 0 filterscripts.
+
+[14:13:48] Conexion a la base de datos exitosa
+[14:13:48] =======================================
+[14:13:48]   OverZone RP - Gamemode Inicializada  
+[14:13:48]   Nombre: OverZone
+[14:13:48]   Versi髇: Beta 1.0
+[14:13:48]   Autor: Jcr
+[14:13:48] =======================================
+[14:13:48] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:14:14] filterscripts = ""  (string)
+[14:14:14] 
+[14:14:14] Server Plugins
+[14:14:14] --------------
+[14:14:14]  Loading plugin: crashdetect.dll
+[14:14:14]   CrashDetect plugin 4.19.4
+[14:14:14]   Loaded.
+[14:14:14]  Loading plugin: sscanf.dll
+[14:14:14] 
+
+[14:14:14]  ===============================
+
+[14:14:14]       sscanf plugin loaded.     
+
+[14:14:14]          Version:  2.8.2        
+
+[14:14:14]    (c) 2012 Alex "Y_Less" Cole  
+
+[14:14:14]  ===============================
+
+[14:14:14]   Loaded.
+[14:14:14]  Loading plugin: mysql.dll
+[14:14:14]  >> plugin.mysql: R41-4 successfully loaded.
+[14:14:14]   Loaded.
+[14:14:14]  Loaded 3 plugins.
+
+[14:14:14] 
+[14:14:14] Filterscripts
+[14:14:14] ---------------
+[14:14:14]   Loaded 0 filterscripts.
+
+[14:14:14] Conexion a la base de datos exitosa
+[14:14:14] =======================================
+[14:14:14]   OverZone RP - Gamemode Inicializada  
+[14:14:14]   Nombre: OverZone
+[14:14:14]   Versi髇: Beta 1.0
+[14:14:14]   Autor: Jcr
+[14:14:14] =======================================
+[14:14:14] Number of vehicle models: 0
+[14:14:38] [connection] incoming connection: 127.0.0.1:61948 id: 0
+[14:14:39] [join] Jcr_Isra has joined the server (0:127.0.0.1)
+[14:15:25] [part] Jcr_Isra has left the server (0:1)
+[14:15:48] [connection] incoming connection: 127.0.0.1:49661 id: 0
+[14:15:48] [join] Jcr_Isra has joined the server (0:127.0.0.1)
+[14:16:40] [part] Jcr_Isra has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:41:49] filterscripts = ""  (string)
+[15:41:49] 
+[15:41:49] Server Plugins
+[15:41:49] --------------
+[15:41:49]  Loading plugin: crashdetect.dll
+[15:41:49]   CrashDetect plugin 4.19.4
+[15:41:49]   Loaded.
+[15:41:49]  Loading plugin: sscanf.dll
+[15:41:49] 
+
+[15:41:49]  ===============================
+
+[15:41:49]       sscanf plugin loaded.     
+
+[15:41:49]          Version:  2.8.2        
+
+[15:41:49]    (c) 2012 Alex "Y_Less" Cole  
+
+[15:41:49]  ===============================
+
+[15:41:49]   Loaded.
+[15:41:49]  Loading plugin: mysql.dll
+[15:41:49]  >> plugin.mysql: R41-4 successfully loaded.
+[15:41:49]   Loaded.
+[15:41:49]  Loaded 3 plugins.
+
+[15:41:49] 
+[15:41:49] Filterscripts
+[15:41:49] ---------------
+[15:41:49]   Loaded 0 filterscripts.
+
+[15:41:49] Conexion a la base de datos exitosa
+[15:41:49] =======================================
+[15:41:49]   OverZone RP - Gamemode Inicializada  
+[15:41:49]   Nombre: OverZone
+[15:41:49]   Versi髇: Beta 1.0
+[15:41:49]   Autor: Jcr
+[15:41:49] =======================================
+[15:41:49] Number of vehicle models: 0
+[15:42:17] [connection] incoming connection: 127.0.0.1:53213 id: 0
+[15:42:18] [join] Jcr_Isra has joined the server (0:127.0.0.1)
+[15:42:50] [part] Jcr_Isra has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:46:44] filterscripts = ""  (string)
+[15:46:44] 
+[15:46:44] Server Plugins
+[15:46:44] --------------
+[15:46:44]  Loading plugin: crashdetect.dll
+[15:46:44]   CrashDetect plugin 4.19.4
+[15:46:44]   Loaded.
+[15:46:44]  Loading plugin: sscanf.dll
+[15:46:44] 
+
+[15:46:44]  ===============================
+
+[15:46:44]       sscanf plugin loaded.     
+
+[15:46:44]          Version:  2.8.2        
+
+[15:46:44]    (c) 2012 Alex "Y_Less" Cole  
+
+[15:46:44]  ===============================
+
+[15:46:44]   Loaded.
+[15:46:44]  Loading plugin: mysql.dll
+[15:46:44]  >> plugin.mysql: R41-4 successfully loaded.
+[15:46:44]   Loaded.
+[15:46:44]  Loaded 3 plugins.
+
+[15:46:45] 
+[15:46:45] Filterscripts
+[15:46:45] ---------------
+[15:46:45]   Loaded 0 filterscripts.
+
+[15:46:45] Conexion a la base de datos exitosa
+[15:46:45] =======================================
+[15:46:45]   OverZone RP - Gamemode Inicializada  
+[15:46:45]   Nombre: OverZone
+[15:46:45]   Versi髇: Beta 1.0
+[15:46:45]   Autor: Jcr
+[15:46:45] =======================================
+[15:46:45] Number of vehicle models: 0
+[15:47:15] [connection] incoming connection: 127.0.0.1:60949 id: 0
+[15:47:15] [join] Jcr_Isra has joined the server (0:127.0.0.1)
+[15:47:29] [part] Jcr_Isra has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:48:16] filterscripts = ""  (string)
+[15:48:16] 
+[15:48:16] Server Plugins
+[15:48:16] --------------
+[15:48:16]  Loading plugin: crashdetect.dll
+[15:48:16]   CrashDetect plugin 4.19.4
+[15:48:16]   Loaded.
+[15:48:16]  Loading plugin: sscanf.dll
+[15:48:16] 
+
+[15:48:16]  ===============================
+
+[15:48:16]       sscanf plugin loaded.     
+
+[15:48:16]          Version:  2.8.2        
+
+[15:48:16]    (c) 2012 Alex "Y_Less" Cole  
+
+[15:48:16]  ===============================
+
+[15:48:16]   Loaded.
+[15:48:16]  Loading plugin: mysql.dll
+[15:48:16]  >> plugin.mysql: R41-4 successfully loaded.
+[15:48:16]   Loaded.
+[15:48:16]  Loaded 3 plugins.
+
+[15:48:16] 
+[15:48:16] Filterscripts
+[15:48:16] ---------------
+[15:48:16]   Loaded 0 filterscripts.
+
+[15:48:16] Conexion a la base de datos exitosa
+[15:48:16] =======================================
+[15:48:16]   OverZone RP - Gamemode Inicializada  
+[15:48:16]   Nombre: OverZone
+[15:48:16]   Versi髇: Beta 1.0
+[15:48:16]   Autor: Jcr
+[15:48:16] =======================================
+[15:48:16] Number of vehicle models: 0
+[15:48:39] [connection] incoming connection: 127.0.0.1:56937 id: 0
+[15:48:39] [join] Jcr_Isra has joined the server (0:127.0.0.1)
+[15:49:30] [part] Jcr_Isra has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:51:55] filterscripts = ""  (string)
+[15:51:55] 
+[15:51:55] Server Plugins
+[15:51:55] --------------
+[15:51:55]  Loading plugin: crashdetect.dll
+[15:51:55]   CrashDetect plugin 4.19.4
+[15:51:55]   Loaded.
+[15:51:55]  Loading plugin: sscanf.dll
+[15:51:55] 
+
+[15:51:55]  ===============================
+
+[15:51:55]       sscanf plugin loaded.     
+
+[15:51:55]          Version:  2.8.2        
+
+[15:51:55]    (c) 2012 Alex "Y_Less" Cole  
+
+[15:51:55]  ===============================
+
+[15:51:55]   Loaded.
+[15:51:55]  Loading plugin: mysql.dll
+[15:51:55]  >> plugin.mysql: R41-4 successfully loaded.
+[15:51:55]   Loaded.
+[15:51:55]  Loaded 3 plugins.
+
+[15:51:55] 
+[15:51:55] Filterscripts
+[15:51:55] ---------------
+[15:51:55]   Loaded 0 filterscripts.
+
+[15:51:55] Conexion a la base de datos exitosa
+[15:51:55] =======================================
+[15:51:55]   OverZone RP - Gamemode Inicializada  
+[15:51:55]   Nombre: OverZone
+[15:51:55]   Versi髇: Beta 1.0
+[15:51:55]   Autor: Jcr
+[15:51:55] =======================================
+[15:51:55] Number of vehicle models: 0
+[15:52:20] [connection] incoming connection: 127.0.0.1:50395 id: 0
+[15:52:20] [join] Jcr_Isra has joined the server (0:127.0.0.1)
+[15:52:54] [part] Jcr_Isra has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:55:29] filterscripts = ""  (string)
+[15:55:29] 
+[15:55:29] Server Plugins
+[15:55:29] --------------
+[15:55:29]  Loading plugin: crashdetect.dll
+[15:55:29]   CrashDetect plugin 4.19.4
+[15:55:29]   Loaded.
+[15:55:29]  Loading plugin: sscanf.dll
+[15:55:29] 
+
+[15:55:29]  ===============================
+
+[15:55:29]       sscanf plugin loaded.     
+
+[15:55:29]          Version:  2.8.2        
+
+[15:55:29]    (c) 2012 Alex "Y_Less" Cole  
+
+[15:55:29]  ===============================
+
+[15:55:29]   Loaded.
+[15:55:29]  Loading plugin: mysql.dll
+[15:55:29]  >> plugin.mysql: R41-4 successfully loaded.
+[15:55:29]   Loaded.
+[15:55:29]  Loaded 3 plugins.
+
+[15:55:29] 
+[15:55:29] Filterscripts
+[15:55:29] ---------------
+[15:55:29]   Loaded 0 filterscripts.
+
+[15:55:29] Conexion a la base de datos exitosa
+[15:55:29] =======================================
+[15:55:29]   OverZone RP - Gamemode Inicializada  
+[15:55:29]   Nombre: OverZone
+[15:55:29]   Versi髇: Beta 1.0
+[15:55:29]   Autor: Jcr
+[15:55:29] =======================================
+[15:55:29] Number of vehicle models: 0
+[15:55:53] [connection] incoming connection: 127.0.0.1:65096 id: 0
+[15:55:54] [join] Jcr_Isra has joined the server (0:127.0.0.1)
+[15:56:31] [part] Jcr_Isra has left the server (0:1)
+[15:57:25] [connection] incoming connection: 127.0.0.1:51181 id: 0
+[15:57:25] [join] Jcr_Isra has joined the server (0:127.0.0.1)
+[15:58:00] [part] Jcr_Isra has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:02:51] filterscripts = ""  (string)
+[16:02:51] 
+[16:02:51] Server Plugins
+[16:02:51] --------------
+[16:02:51]  Loading plugin: crashdetect.dll
+[16:02:51]   CrashDetect plugin 4.19.4
+[16:02:51]   Loaded.
+[16:02:51]  Loading plugin: sscanf.dll
+[16:02:51] 
+
+[16:02:51]  ===============================
+
+[16:02:51]       sscanf plugin loaded.     
+
+[16:02:51]          Version:  2.8.2        
+
+[16:02:51]    (c) 2012 Alex "Y_Less" Cole  
+
+[16:02:51]  ===============================
+
+[16:02:51]   Loaded.
+[16:02:51]  Loading plugin: mysql.dll
+[16:02:51]  >> plugin.mysql: R41-4 successfully loaded.
+[16:02:51]   Loaded.
+[16:02:51]  Loaded 3 plugins.
+
+[16:02:51] 
+[16:02:51] Filterscripts
+[16:02:51] ---------------
+[16:02:51]   Loaded 0 filterscripts.
+
+[16:02:51] Conexion a la base de datos exitosa
+[16:02:51] =======================================
+[16:02:51]   OverZone RP - Gamemode Inicializada  
+[16:02:51]   Nombre: OverZone
+[16:02:51]   Versi髇: Beta 1.0
+[16:02:51]   Autor: Jcr
+[16:02:51] =======================================
+[16:02:51] Number of vehicle models: 0
+[16:03:22] [connection] incoming connection: 127.0.0.1:53948 id: 0
+[16:03:23] [join] Jcr_Isra has joined the server (0:127.0.0.1)
+[16:03:50] [part] Jcr_Isra has left the server (0:1)
+[16:04:48] [connection] incoming connection: 127.0.0.1:65329 id: 0
+[16:04:48] [join] Jcr_Isra has joined the server (0:127.0.0.1)
+[16:05:26] [part] Jcr_Isra has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:06:03] filterscripts = ""  (string)
+[16:06:03] 
+[16:06:03] Server Plugins
+[16:06:03] --------------
+[16:06:03]  Loading plugin: crashdetect.dll
+[16:06:03]   CrashDetect plugin 4.19.4
+[16:06:03]   Loaded.
+[16:06:03]  Loading plugin: sscanf.dll
+[16:06:03] 
+
+[16:06:03]  ===============================
+
+[16:06:03]       sscanf plugin loaded.     
+
+[16:06:03]          Version:  2.8.2        
+
+[16:06:03]    (c) 2012 Alex "Y_Less" Cole  
+
+[16:06:03]  ===============================
+
+[16:06:03]   Loaded.
+[16:06:03]  Loading plugin: mysql.dll
+[16:06:03]  >> plugin.mysql: R41-4 successfully loaded.
+[16:06:03]   Loaded.
+[16:06:03]  Loaded 3 plugins.
+
+[16:06:03] 
+[16:06:03] Filterscripts
+[16:06:03] ---------------
+[16:06:03]   Loaded 0 filterscripts.
+
+[16:06:03] Conexion a la base de datos exitosa
+[16:06:03] =======================================
+[16:06:03]   OverZone RP - Gamemode Inicializada  
+[16:06:03]   Nombre: OverZone
+[16:06:03]   Versi髇: Beta 1.0
+[16:06:03]   Autor: Jcr
+[16:06:03] =======================================
+[16:06:03] Number of vehicle models: 0
+[16:06:26] [connection] incoming connection: 127.0.0.1:54090 id: 0
+[16:06:26] [join] Jcr_Isra has joined the server (0:127.0.0.1)
+[16:08:05] [part] Jcr_Isra has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:35:54] filterscripts = ""  (string)
+[14:35:54] 
+[14:35:54] Server Plugins
+[14:35:54] --------------
+[14:35:54]  Loading plugin: crashdetect.dll
+[14:35:54]   CrashDetect plugin 4.19.4
+[14:35:54]   Loaded.
+[14:35:54]  Loading plugin: sscanf.dll
+[14:35:54] 
+
+[14:35:54]  ===============================
+
+[14:35:54]       sscanf plugin loaded.     
+
+[14:35:54]          Version:  2.8.2        
+
+[14:35:54]    (c) 2012 Alex "Y_Less" Cole  
+
+[14:35:54]  ===============================
+
+[14:35:54]   Loaded.
+[14:35:54]  Loading plugin: mysql.dll
+[14:35:54]  >> plugin.mysql: R41-4 successfully loaded.
+[14:35:54]   Loaded.
+[14:35:54]  Loaded 3 plugins.
+
+[14:35:54] 
+[14:35:54] Filterscripts
+[14:35:54] ---------------
+[14:35:54]   Loaded 0 filterscripts.
+
+[14:35:54] Conexion a la base de datos exitosa
+[14:35:54] =======================================
+[14:35:54]   OverZone RP - Gamemode Inicializada  
+[14:35:54]   Nombre: OverZone
+[14:35:54]   Versi髇: Beta 1.0
+[14:35:54]   Autor: Jcr
+[14:35:54] =======================================
+[14:35:54] Number of vehicle models: 0
+[14:37:48] [connection] incoming connection: 127.0.0.1:50816 id: 0
+[14:37:48] [join] Jcr_Isra has joined the server (0:127.0.0.1)
+[14:39:03] [part] Jcr_Isra has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:52:30] filterscripts = ""  (string)
+[14:52:30] 
+[14:52:30] Server Plugins
+[14:52:30] --------------
+[14:52:30]  Loading plugin: crashdetect.dll
+[14:52:30]   CrashDetect plugin 4.19.4
+[14:52:30]   Loaded.
+[14:52:30]  Loading plugin: sscanf.dll
+[14:52:30] 
+
+[14:52:30]  ===============================
+
+[14:52:30]       sscanf plugin loaded.     
+
+[14:52:30]          Version:  2.8.2        
+
+[14:52:30]    (c) 2012 Alex "Y_Less" Cole  
+
+[14:52:30]  ===============================
+
+[14:52:30]   Loaded.
+[14:52:30]  Loading plugin: mysql.dll
+[14:52:30]  >> plugin.mysql: R41-4 successfully loaded.
+[14:52:30]   Loaded.
+[14:52:30]  Loaded 3 plugins.
+
+[14:52:30] 
+[14:52:30] Filterscripts
+[14:52:30] ---------------
+[14:52:30]   Loaded 0 filterscripts.
+
+[14:52:30] Conexion a la base de datos exitosa
+[14:52:30] =======================================
+[14:52:30]   OverZone RP - Gamemode Inicializada  
+[14:52:30]   Nombre: OverZone
+[14:52:30]   Versi髇: Beta 1.0
+[14:52:30]   Autor: Jcr
+[14:52:30] =======================================
+[14:52:30] Number of vehicle models: 0
+[14:53:09] [connection] incoming connection: 127.0.0.1:51206 id: 0
+[14:53:09] [join] Jcr_Isra has joined the server (0:127.0.0.1)
+[14:54:33] sscanf warning: Strings without a length are deprecated, please add a destination size.
+[14:59:23] [part] Jcr_Isra has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:20:22] filterscripts = ""  (string)
+[15:20:22] 
+[15:20:22] Server Plugins
+[15:20:22] --------------
+[15:20:22]  Loading plugin: crashdetect.dll
+[15:20:22]   CrashDetect plugin 4.19.4
+[15:20:22]   Loaded.
+[15:20:22]  Loading plugin: sscanf.dll
+[15:20:22] 
+
+[15:20:22]  ===============================
+
+[15:20:22]       sscanf plugin loaded.     
+
+[15:20:22]          Version:  2.8.2        
+
+[15:20:22]    (c) 2012 Alex "Y_Less" Cole  
+
+[15:20:22]  ===============================
+
+[15:20:22]   Loaded.
+[15:20:22]  Loading plugin: mysql.dll
+[15:20:22]  >> plugin.mysql: R41-4 successfully loaded.
+[15:20:22]   Loaded.
+[15:20:22]  Loaded 3 plugins.
+
+[15:20:23] 
+[15:20:23] Filterscripts
+[15:20:23] ---------------
+[15:20:23]   Loaded 0 filterscripts.
+
+[15:20:23] Conexion a la base de datos exitosa
+[15:20:23] =======================================
+[15:20:23]   OverZone RP - Gamemode Inicializada  
+[15:20:23]   Nombre: OverZone
+[15:20:23]   Versi髇: Beta 1.0
+[15:20:23]   Autor: Jcr
+[15:20:23] =======================================
+[15:20:23] Number of vehicle models: 0
+[15:21:11] [connection] incoming connection: 127.0.0.1:57954 id: 0
+[15:21:12] [join] Jcr_Isra has joined the server (0:127.0.0.1)
+[15:25:02] [part] Jcr_Isra has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:09:05] filterscripts = ""  (string)
+[00:09:05] 
+[00:09:05] Server Plugins
+[00:09:05] --------------
+[00:09:05]  Loading plugin: crashdetect.dll
+[00:09:05]   CrashDetect plugin 4.19.4
+[00:09:05]   Loaded.
+[00:09:05]  Loading plugin: sscanf.dll
+[00:09:05] 
+
+[00:09:05]  ===============================
+
+[00:09:05]       sscanf plugin loaded.     
+
+[00:09:05]          Version:  2.8.2        
+
+[00:09:05]    (c) 2012 Alex "Y_Less" Cole  
+
+[00:09:05]  ===============================
+
+[00:09:05]   Loaded.
+[00:09:05]  Loading plugin: mysql.dll
+[00:09:06]  >> plugin.mysql: R41-4 successfully loaded.
+[00:09:06]   Loaded.
+[00:09:06]  Loaded 3 plugins.
+
+[00:09:06] 
+[00:09:06] Filterscripts
+[00:09:06] ---------------
+[00:09:06]   Loaded 0 filterscripts.
+
+[00:09:06] Conexion a la base de datos exitosa
+[00:09:06] =======================================
+[00:09:06]   OverZone RP - Gamemode Inicializada  
+[00:09:06]   Nombre: OverZone
+[00:09:06]   Versi贸n: Beta 1.0
+[00:09:06]   Autor: Jcr
+[00:09:06] =======================================
+[00:09:06] Number of vehicle models: 0
+[00:10:42] [connection] incoming connection: 127.0.0.1:57287 id: 0
+[00:10:43] [join] Jcr_Isra has joined the server (0:127.0.0.1)
+[00:11:04] [part] Jcr_Isra has left the server (0:1)
+[00:15:54] [connection] incoming connection: 127.0.0.1:53007 id: 0
+[00:15:54] [join] Jcr_Isra has joined the server (0:127.0.0.1)
+[00:17:09] [part] Jcr_Isra has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:18:11] filterscripts = ""  (string)
+[00:18:11] 
+[00:18:11] Server Plugins
+[00:18:11] --------------
+[00:18:11]  Loading plugin: crashdetect.dll
+[00:18:11]   CrashDetect plugin 4.19.4
+[00:18:11]   Loaded.
+[00:18:11]  Loading plugin: sscanf.dll
+[00:18:11] 
+
+[00:18:11]  ===============================
+
+[00:18:11]       sscanf plugin loaded.     
+
+[00:18:11]          Version:  2.8.2        
+
+[00:18:11]    (c) 2012 Alex "Y_Less" Cole  
+
+[00:18:11]  ===============================
+
+[00:18:11]   Loaded.
+[00:18:11]  Loading plugin: mysql.dll
+[00:18:11]  >> plugin.mysql: R41-4 successfully loaded.
+[00:18:11]   Loaded.
+[00:18:11]  Loaded 3 plugins.
+
+[00:18:11] 
+[00:18:11] Filterscripts
+[00:18:11] ---------------
+[00:18:11]   Loaded 0 filterscripts.
+
+[00:18:11] Conexion a la base de datos exitosa
+[00:18:11] =======================================
+[00:18:11]   OverZone RP - Gamemode Inicializada  
+[00:18:11]   Nombre: OverZone
+[00:18:11]   Versi髇: Beta 1.0
+[00:18:11]   Autor: Jcr
+[00:18:11] =======================================
+[00:18:11] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:32:44] filterscripts = ""  (string)
+[00:32:44] 
+[00:32:44] Server Plugins
+[00:32:44] --------------
+[00:32:44]  Loading plugin: crashdetect.dll
+[00:32:44]   CrashDetect plugin 4.19.4
+[00:32:44]   Loaded.
+[00:32:44]  Loading plugin: sscanf.dll
+[00:32:44] 
+
+[00:32:44]  ===============================
+
+[00:32:44]       sscanf plugin loaded.     
+
+[00:32:44]          Version:  2.8.2        
+
+[00:32:44]    (c) 2012 Alex "Y_Less" Cole  
+
+[00:32:44]  ===============================
+
+[00:32:44]   Loaded.
+[00:32:44]  Loading plugin: mysql.dll
+[00:32:44]  >> plugin.mysql: R41-4 successfully loaded.
+[00:32:44]   Loaded.
+[00:32:44]  Loaded 3 plugins.
+
+[00:32:44] 
+[00:32:44] Filterscripts
+[00:32:44] ---------------
+[00:32:44]   Loaded 0 filterscripts.
+
+[00:32:44] Conexion a la base de datos exitosa
+[00:32:44] =======================================
+[00:32:44]   OverZone RP - Gamemode Inicializada  
+[00:32:44]   Nombre: OverZone
+[00:32:44]   Versi髇: Beta 1.0
+[00:32:44]   Autor: Jcr
+[00:32:44] =======================================
+[00:32:44] Number of vehicle models: 0
+[00:33:10] [connection] incoming connection: 127.0.0.1:50884 id: 0
+[00:33:10] [join] Jcr_Isra has joined the server (0:127.0.0.1)
+[00:35:38] [part] Jcr_Isra has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:40:42] filterscripts = ""  (string)
+[00:40:42] 
+[00:40:42] Server Plugins
+[00:40:42] --------------
+[00:40:42]  Loading plugin: crashdetect.dll
+[00:40:42]   CrashDetect plugin 4.19.4
+[00:40:42]   Loaded.
+[00:40:42]  Loading plugin: sscanf.dll
+[00:40:42] 
+
+[00:40:42]  ===============================
+
+[00:40:42]       sscanf plugin loaded.     
+
+[00:40:42]          Version:  2.8.2        
+
+[00:40:42]    (c) 2012 Alex "Y_Less" Cole  
+
+[00:40:42]  ===============================
+
+[00:40:42]   Loaded.
+[00:40:42]  Loading plugin: mysql.dll
+[00:40:42]  >> plugin.mysql: R41-4 successfully loaded.
+[00:40:42]   Loaded.
+[00:40:42]  Loaded 3 plugins.
+
+[00:40:42] 
+[00:40:42] Filterscripts
+[00:40:42] ---------------
+[00:40:42]   Loaded 0 filterscripts.
+
+[00:40:42] Conexion a la base de datos exitosa
+[00:40:42] =======================================
+[00:40:42]   OverZone RP - Gamemode Inicializada  
+[00:40:42]   Nombre: OverZone
+[00:40:42]   Versi髇: Beta 1.0
+[00:40:42]   Autor: Jcr
+[00:40:42] =======================================
+[00:40:42] Number of vehicle models: 0
+[00:41:11] [connection] incoming connection: 127.0.0.1:56524 id: 0
+[00:41:11] [join] Jcr_Isra has joined the server (0:127.0.0.1)
+[00:42:06] [part] Jcr_Isra has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:13:31] filterscripts = ""  (string)
+[01:13:31] 
+[01:13:31] Server Plugins
+[01:13:31] --------------
+[01:13:31]  Loading plugin: crashdetect.dll
+[01:13:31]   CrashDetect plugin 4.19.4
+[01:13:31]   Loaded.
+[01:13:31]  Loading plugin: sscanf.dll
+[01:13:31] 
+
+[01:13:31]  ===============================
+
+[01:13:31]       sscanf plugin loaded.     
+
+[01:13:31]          Version:  2.8.2        
+
+[01:13:31]    (c) 2012 Alex "Y_Less" Cole  
+
+[01:13:31]  ===============================
+
+[01:13:31]   Loaded.
+[01:13:31]  Loading plugin: mysql.dll
+[01:13:31]  >> plugin.mysql: R41-4 successfully loaded.
+[01:13:31]   Loaded.
+[01:13:31]  Loaded 3 plugins.
+
+[01:13:31] 
+[01:13:31] Filterscripts
+[01:13:31] ---------------
+[01:13:31]   Loaded 0 filterscripts.
+
+[01:13:31] Conexion a la base de datos exitosa
+[01:13:31] =======================================
+[01:13:31]   OverZone RP - Gamemode Inicializada  
+[01:13:31]   Nombre: OverZone
+[01:13:31]   Versi髇: Beta 1.0
+[01:13:31]   Autor: Jcr
+[01:13:31] =======================================
+[01:13:31] Number of vehicle models: 0
+[01:13:59] [connection] incoming connection: 127.0.0.1:54104 id: 0
+[01:14:00] [join] Jcr_Isra has joined the server (0:127.0.0.1)
+[01:14:22] [part] Jcr_Isra has left the server (0:1)
+[01:15:11] [connection] incoming connection: 127.0.0.1:63679 id: 0
+[01:15:11] [join] Jcr_Isra has joined the server (0:127.0.0.1)
+[01:15:34] [part] Jcr_Isra has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:19:33] filterscripts = ""  (string)
+[01:19:34] 
+[01:19:34] Server Plugins
+[01:19:34] --------------
+[01:19:34]  Loading plugin: crashdetect.dll
+[01:19:34]   CrashDetect plugin 4.19.4
+[01:19:34]   Loaded.
+[01:19:34]  Loading plugin: sscanf.dll
+[01:19:34] 
+
+[01:19:34]  ===============================
+
+[01:19:34]       sscanf plugin loaded.     
+
+[01:19:34]          Version:  2.8.2        
+
+[01:19:34]    (c) 2012 Alex "Y_Less" Cole  
+
+[01:19:34]  ===============================
+
+[01:19:34]   Loaded.
+[01:19:34]  Loading plugin: mysql.dll
+[01:19:34]  >> plugin.mysql: R41-4 successfully loaded.
+[01:19:34]   Loaded.
+[01:19:34]  Loaded 3 plugins.
+
+[01:19:34] 
+[01:19:34] Filterscripts
+[01:19:34] ---------------
+[01:19:34]   Loaded 0 filterscripts.
+
+[01:19:34] Conexion a la base de datos exitosa
+[01:19:34] =======================================
+[01:19:34]   OverZone RP - Gamemode Inicializada  
+[01:19:34]   Nombre: OverZone
+[01:19:34]   Versi髇: Beta 1.0
+[01:19:34]   Autor: Jcr
+[01:19:34] =======================================
+[01:19:34] Number of vehicle models: 0
+[01:20:00] [connection] incoming connection: 127.0.0.1:56773 id: 0
+[01:20:00] [join] Jcr_Isra has joined the server (0:127.0.0.1)
+[01:20:22] [part] Jcr_Isra has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:23:02] filterscripts = ""  (string)
+[01:23:02] 
+[01:23:02] Server Plugins
+[01:23:02] --------------
+[01:23:02]  Loading plugin: crashdetect.dll
+[01:23:02]   CrashDetect plugin 4.19.4
+[01:23:02]   Loaded.
+[01:23:02]  Loading plugin: sscanf.dll
+[01:23:02] 
+
+[01:23:02]  ===============================
+
+[01:23:02]       sscanf plugin loaded.     
+
+[01:23:02]          Version:  2.8.2        
+
+[01:23:02]    (c) 2012 Alex "Y_Less" Cole  
+
+[01:23:02]  ===============================
+
+[01:23:02]   Loaded.
+[01:23:02]  Loading plugin: mysql.dll
+[01:23:02]  >> plugin.mysql: R41-4 successfully loaded.
+[01:23:02]   Loaded.
+[01:23:02]  Loaded 3 plugins.
+
+[01:23:02] 
+[01:23:02] Filterscripts
+[01:23:02] ---------------
+[01:23:02]   Loaded 0 filterscripts.
+
+[01:23:02] Conexion a la base de datos exitosa
+[01:23:02] =======================================
+[01:23:02]   OverZone RP - Gamemode Inicializada  
+[01:23:02]   Nombre: OverZone
+[01:23:02]   Versi髇: Beta 1.0
+[01:23:02]   Autor: Jcr
+[01:23:02] =======================================
+[01:23:02] Number of vehicle models: 0
+[01:23:25] [connection] incoming connection: 127.0.0.1:55569 id: 0
+[01:23:25] [join] Jcr_Isra has joined the server (0:127.0.0.1)
+[01:23:41] [REGISTER QUERY] %s
+[01:24:04] [part] Jcr_Isra has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:30:03] filterscripts = ""  (string)
+[01:30:03] 
+[01:30:03] Server Plugins
+[01:30:03] --------------
+[01:30:03]  Loading plugin: crashdetect.dll
+[01:30:03]   CrashDetect plugin 4.19.4
+[01:30:03]   Loaded.
+[01:30:03]  Loading plugin: sscanf.dll
+[01:30:03] 
+
+[01:30:03]  ===============================
+
+[01:30:03]       sscanf plugin loaded.     
+
+[01:30:03]          Version:  2.8.2        
+
+[01:30:03]    (c) 2012 Alex "Y_Less" Cole  
+
+[01:30:03]  ===============================
+
+[01:30:03]   Loaded.
+[01:30:03]  Loading plugin: mysql.dll
+[01:30:03]  >> plugin.mysql: R41-4 successfully loaded.
+[01:30:03]   Loaded.
+[01:30:03]  Loaded 3 plugins.
+
+[01:30:03] 
+[01:30:03] Filterscripts
+[01:30:03] ---------------
+[01:30:03]   Loaded 0 filterscripts.
+
+[01:30:03] Conexion a la base de datos exitosa
+[01:30:03] =======================================
+[01:30:03]   OverZone RP - Gamemode Inicializada  
+[01:30:03]   Nombre: OverZone
+[01:30:03]   Versi髇: Beta 1.0
+[01:30:03]   Autor: Jcr
+[01:30:03] =======================================
+[01:30:03] Number of vehicle models: 0
+[01:30:27] [connection] incoming connection: 127.0.0.1:55735 id: 0
+[01:30:28] [join] Jcr_Isra has joined the server (0:127.0.0.1)
+[01:30:49] [REGISTER QUERY] %s
+[01:31:24] [part] Jcr_Isra has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:32:58] filterscripts = ""  (string)
+[01:32:58] 
+[01:32:58] Server Plugins
+[01:32:58] --------------
+[01:32:58]  Loading plugin: crashdetect.dll
+[01:32:58]   CrashDetect plugin 4.19.4
+[01:32:58]   Loaded.
+[01:32:58]  Loading plugin: sscanf.dll
+[01:32:58] 
+
+[01:32:58]  ===============================
+
+[01:32:58]       sscanf plugin loaded.     
+
+[01:32:58]          Version:  2.8.2        
+
+[01:32:58]    (c) 2012 Alex "Y_Less" Cole  
+
+[01:32:58]  ===============================
+
+[01:32:58]   Loaded.
+[01:32:58]  Loading plugin: mysql.dll
+[01:32:58]  >> plugin.mysql: R41-4 successfully loaded.
+[01:32:58]   Loaded.
+[01:32:58]  Loaded 3 plugins.
+
+[01:32:58] 
+[01:32:58] Filterscripts
+[01:32:58] ---------------
+[01:32:58]   Loaded 0 filterscripts.
+
+[01:32:58] Conexion a la base de datos exitosa
+[01:32:58] =======================================
+[01:32:58]   OverZone RP - Gamemode Inicializada  
+[01:32:58]   Nombre: OverZone
+[01:32:58]   Versi髇: Beta 1.0
+[01:32:58]   Autor: Jcr
+[01:32:58] =======================================
+[01:32:58] Number of vehicle models: 0
+[01:34:51] [connection] incoming connection: 127.0.0.1:57741 id: 0
+[01:34:51] [join] Jcr_Isra has joined the server (0:127.0.0.1)
+[01:35:18] [REGISTER QUERY] %s
+[01:35:23] [part] Jcr_Isra has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:47:08] filterscripts = ""  (string)
+[01:47:08] 
+[01:47:08] Server Plugins
+[01:47:08] --------------
+[01:47:08]  Loading plugin: crashdetect.dll
+[01:47:08]   CrashDetect plugin 4.19.4
+[01:47:08]   Loaded.
+[01:47:08]  Loading plugin: sscanf.dll
+[01:47:08] 
+
+[01:47:08]  ===============================
+
+[01:47:08]       sscanf plugin loaded.     
+
+[01:47:08]          Version:  2.8.2        
+
+[01:47:08]    (c) 2012 Alex "Y_Less" Cole  
+
+[01:47:08]  ===============================
+
+[01:47:08]   Loaded.
+[01:47:08]  Loading plugin: mysql.dll
+[01:47:08]  >> plugin.mysql: R41-4 successfully loaded.
+[01:47:08]   Loaded.
+[01:47:08]  Loaded 3 plugins.
+
+[01:47:08] 
+[01:47:08] Filterscripts
+[01:47:08] ---------------
+[01:47:08]   Loaded 0 filterscripts.
+
+[01:47:08] Conexion a la base de datos exitosa
+[01:47:08] =======================================
+[01:47:08]   OverZone RP - Gamemode Inicializada  
+[01:47:08]   Nombre: OverZone
+[01:47:08]   Versi髇: Beta 1.0
+[01:47:08]   Autor: Jcr
+[01:47:08] =======================================
+[01:47:08] Number of vehicle models: 0
+[01:47:32] [connection] incoming connection: 127.0.0.1:51946 id: 0
+[01:47:32] [join] Jcr_Isra has joined the server (0:127.0.0.1)
+[01:47:52] [REGISTER QUERY] 
+[01:47:52] [REGISTER SYNC ERROR] errno=1065 err=Query was empty
+[01:48:12] [part] Jcr_Isra has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:51:11] filterscripts = ""  (string)
+[01:51:11] 
+[01:51:11] Server Plugins
+[01:51:11] --------------
+[01:51:11]  Loading plugin: crashdetect.dll
+[01:51:11]   CrashDetect plugin 4.19.4
+[01:51:11]   Loaded.
+[01:51:11]  Loading plugin: sscanf.dll
+[01:51:11] 
+
+[01:51:11]  ===============================
+
+[01:51:11]       sscanf plugin loaded.     
+
+[01:51:11]          Version:  2.8.2        
+
+[01:51:11]    (c) 2012 Alex "Y_Less" Cole  
+
+[01:51:11]  ===============================
+
+[01:51:11]   Loaded.
+[01:51:11]  Loading plugin: mysql.dll
+[01:51:11]  >> plugin.mysql: R41-4 successfully loaded.
+[01:51:11]   Loaded.
+[01:51:11]  Loaded 3 plugins.
+
+[01:51:11] 
+[01:51:11] Filterscripts
+[01:51:11] ---------------
+[01:51:11]   Loaded 0 filterscripts.
+
+[01:51:11] Conexion a la base de datos exitosa
+[01:51:11] =======================================
+[01:51:11]   OverZone RP - Gamemode Inicializada  
+[01:51:11]   Nombre: OverZone
+[01:51:11]   Versi髇: Beta 1.0
+[01:51:11]   Autor: Jcr
+[01:51:11] =======================================
+[01:51:11] Number of vehicle models: 0
+[01:51:36] [connection] incoming connection: 127.0.0.1:63888 id: 0
+[01:51:36] [join] Jcr_Isra has joined the server (0:127.0.0.1)
+[01:51:54] [REGISTER QUERY LEN] 283
+[01:51:54] [REGISTER QUERY] INSERT INTO usuarios (nombre, clave, correo, edad, genero, skin, x, y, z, a, dinero, coins, licenses, nivel, exp, created_at, last_login) VALUES ('Jcr_Isra', '123456', 'dasdasd2@gmail.com', 27, 1, 93, 1178.479614, -2037.198486, 69.007797, 274.067108, 16000, 0, 0, 1, 0, NOW(), NOW())
+[01:51:54] [REGISTER SYNC OK] insert_id=3 affected=1
+[01:52:06] [part] Jcr_Isra has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:56:10] filterscripts = ""  (string)
+[01:56:10] 
+[01:56:10] Server Plugins
+[01:56:10] --------------
+[01:56:10]  Loading plugin: crashdetect.dll
+[01:56:10]   CrashDetect plugin 4.19.4
+[01:56:10]   Loaded.
+[01:56:10]  Loading plugin: sscanf.dll
+[01:56:10] 
+
+[01:56:10]  ===============================
+
+[01:56:10]       sscanf plugin loaded.     
+
+[01:56:10]          Version:  2.8.2        
+
+[01:56:10]    (c) 2012 Alex "Y_Less" Cole  
+
+[01:56:10]  ===============================
+
+[01:56:10]   Loaded.
+[01:56:10]  Loading plugin: mysql.dll
+[01:56:10]  >> plugin.mysql: R41-4 successfully loaded.
+[01:56:10]   Loaded.
+[01:56:10]  Loaded 3 plugins.
+
+[01:56:10] 
+[01:56:10] Filterscripts
+[01:56:10] ---------------
+[01:56:10]   Loaded 0 filterscripts.
+
+[01:56:10] Conexion a la base de datos exitosa
+[01:56:10] =======================================
+[01:56:10]   OverZone RP - Gamemode Inicializada  
+[01:56:10]   Nombre: OverZone
+[01:56:10]   Versi髇: Beta 1.0
+[01:56:10]   Autor: Jcr
+[01:56:10] =======================================
+[01:56:10] Number of vehicle models: 0
+[01:56:32] [connection] incoming connection: 127.0.0.1:53124 id: 0
+[01:56:33] [join] Jcr_Isra has joined the server (0:127.0.0.1)
+[01:56:51] [REGISTER QUERY LEN] 282
+[01:56:51] [REGISTER QUERY] INSERT INTO usuarios (nombre, clave, correo, edad, genero, skin, x, y, z, a, dinero, coins, licenses, nivel, exp, created_at, last_login) VALUES ('Jcr_Isra', '123456', 'usuario@gmail.com', 27, 1, 93, 1178.479614, -2037.198486, 69.007797, 274.067108, 16000, 0, 0, 1, 0, NOW(), NOW())
+[01:56:51] [REGISTER SYNC OK] insert_id=4 affected=1
+[01:56:51] [FINALIZAR SKIN] playerid=0 skin=93 genero=1
+[01:57:24] [part] Jcr_Isra has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:07:33] filterscripts = ""  (string)
+[02:07:33] 
+[02:07:33] Server Plugins
+[02:07:33] --------------
+[02:07:33]  Loading plugin: crashdetect.dll
+[02:07:33]   CrashDetect plugin 4.19.4
+[02:07:33]   Loaded.
+[02:07:33]  Loading plugin: sscanf.dll
+[02:07:33] 
+
+[02:07:33]  ===============================
+
+[02:07:33]       sscanf plugin loaded.     
+
+[02:07:33]          Version:  2.8.2        
+
+[02:07:33]    (c) 2012 Alex "Y_Less" Cole  
+
+[02:07:33]  ===============================
+
+[02:07:33]   Loaded.
+[02:07:33]  Loading plugin: mysql.dll
+[02:07:33]  >> plugin.mysql: R41-4 successfully loaded.
+[02:07:33]   Loaded.
+[02:07:33]  Loaded 3 plugins.
+
+[02:07:33] 
+[02:07:33] Filterscripts
+[02:07:33] ---------------
+[02:07:33]   Loaded 0 filterscripts.
+
+[02:07:33] Conexion a la base de datos exitosa
+[02:07:33] =======================================
+[02:07:33]   OverZone RP - Gamemode Inicializada  
+[02:07:33]   Nombre: OverZone
+[02:07:33]   Versi髇: Beta 1.0
+[02:07:33]   Autor: Jcr
+[02:07:33] =======================================
+[02:07:33] Number of vehicle models: 0
+[02:08:21] [connection] incoming connection: 127.0.0.1:57062 id: 0
+[02:08:21] [join] Jcr_Isra has joined the server (0:127.0.0.1)
+[02:09:01] [part] Jcr_Isra has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:20:10] filterscripts = ""  (string)
+[02:20:10] 
+[02:20:10] Server Plugins
+[02:20:10] --------------
+[02:20:10]  Loading plugin: crashdetect.dll
+[02:20:10]   CrashDetect plugin 4.19.4
+[02:20:10]   Loaded.
+[02:20:10]  Loading plugin: sscanf.dll
+[02:20:10] 
+
+[02:20:10]  ===============================
+
+[02:20:10]       sscanf plugin loaded.     
+
+[02:20:10]          Version:  2.8.2        
+
+[02:20:10]    (c) 2012 Alex "Y_Less" Cole  
+
+[02:20:10]  ===============================
+
+[02:20:10]   Loaded.
+[02:20:10]  Loading plugin: mysql.dll
+[02:20:10]  >> plugin.mysql: R41-4 successfully loaded.
+[02:20:10]   Loaded.
+[02:20:10]  Loaded 3 plugins.
+
+[02:20:10] 
+[02:20:10] Filterscripts
+[02:20:10] ---------------
+[02:20:10]   Loaded 0 filterscripts.
+
+[02:20:10] Conexion a la base de datos exitosa
+[02:20:10] =======================================
+[02:20:10]   OverZone RP - Gamemode Inicializada  
+[02:20:10]   Nombre: OverZone
+[02:20:10]   Versi髇: Beta 1.0
+[02:20:10]   Autor: Jcr
+[02:20:10] =======================================
+[02:20:10] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:21:04] filterscripts = ""  (string)
+[02:21:04] 
+[02:21:04] Server Plugins
+[02:21:04] --------------
+[02:21:04]  Loading plugin: crashdetect.dll
+[02:21:04]   CrashDetect plugin 4.19.4
+[02:21:04]   Loaded.
+[02:21:04]  Loading plugin: sscanf.dll
+[02:21:04] 
+
+[02:21:04]  ===============================
+
+[02:21:04]       sscanf plugin loaded.     
+
+[02:21:04]          Version:  2.8.2        
+
+[02:21:04]    (c) 2012 Alex "Y_Less" Cole  
+
+[02:21:04]  ===============================
+
+[02:21:04]   Loaded.
+[02:21:04]  Loading plugin: mysql.dll
+[02:21:04]  >> plugin.mysql: R41-4 successfully loaded.
+[02:21:04]   Loaded.
+[02:21:04]  Loaded 3 plugins.
+
+[02:21:04] 
+[02:21:04] Filterscripts
+[02:21:04] ---------------
+[02:21:04]   Loaded 0 filterscripts.
+
+[02:21:04] Conexion a la base de datos exitosa
+[02:21:04] =======================================
+[02:21:04]   OverZone RP - Gamemode Inicializada  
+[02:21:04]   Nombre: OverZone
+[02:21:04]   Versi髇: Beta 1.0
+[02:21:04]   Autor: Jcr
+[02:21:04] =======================================
+[02:21:04] Number of vehicle models: 0
+[02:21:28] [connection] incoming connection: 127.0.0.1:63612 id: 0
+[02:21:29] [join] Jcr_Isra has joined the server (0:127.0.0.1)
+[02:22:44] [part] Jcr_Isra has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:48:34] filterscripts = ""  (string)
+[01:48:34] 
+[01:48:34] Server Plugins
+[01:48:34] --------------
+[01:48:34]  Loading plugin: crashdetect.dll
+[01:48:35]   CrashDetect plugin 4.19.4
+[01:48:35]   Loaded.
+[01:48:35]  Loading plugin: sscanf.dll
+[01:48:35] 
+
+[01:48:35]  ===============================
+
+[01:48:35]       sscanf plugin loaded.     
+
+[01:48:35]          Version:  2.8.2        
+
+[01:48:35]    (c) 2012 Alex "Y_Less" Cole  
+
+[01:48:35]  ===============================
+
+[01:48:35]   Loaded.
+[01:48:35]  Loading plugin: mysql.dll
+[01:48:36]  >> plugin.mysql: R41-4 successfully loaded.
+[01:48:36]   Loaded.
+[01:48:36]  Loaded 3 plugins.
+
+[01:48:36] 
+[01:48:36] Filterscripts
+[01:48:36] ---------------
+[01:48:36]   Loaded 0 filterscripts.
+
+[01:48:36] Conexion a la base de datos exitosa
+[01:48:36] =======================================
+[01:48:36]   OverZone RP - Gamemode Inicializada  
+[01:48:36]   Nombre: OverZone
+[01:48:36]   Versi髇: Beta 1.0
+[01:48:36]   Autor: Jcr_Isra
+[01:48:36] =======================================
+[01:48:36] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:53:20] filterscripts = ""  (string)
+[01:53:20] 
+[01:53:20] Server Plugins
+[01:53:20] --------------
+[01:53:20]  Loading plugin: crashdetect.dll
+[01:53:20]   CrashDetect plugin 4.19.4
+[01:53:20]   Loaded.
+[01:53:20]  Loading plugin: sscanf.dll
+[01:53:20] 
+
+[01:53:20]  ===============================
+
+[01:53:20]       sscanf plugin loaded.     
+
+[01:53:20]          Version:  2.8.2        
+
+[01:53:20]    (c) 2012 Alex "Y_Less" Cole  
+
+[01:53:20]  ===============================
+
+[01:53:20]   Loaded.
+[01:53:20]  Loading plugin: mysql.dll
+[01:53:20]  >> plugin.mysql: R41-4 successfully loaded.
+[01:53:20]   Loaded.
+[01:53:20]  Loaded 3 plugins.
+
+[01:53:20] 
+[01:53:20] Filterscripts
+[01:53:20] ---------------
+[01:53:20]   Loaded 0 filterscripts.
+
+[01:53:20] Conexion a la base de datos exitosa
+[01:53:20] =======================================
+[01:53:20]   OverZone RP - Gamemode Inicializada  
+[01:53:20]   Nombre: OverZone
+[01:53:20]   Versi髇: Beta 1.0
+[01:53:20]   Autor: Jcr_Isra
+[01:53:20] =======================================
+[01:53:20] Number of vehicle models: 0
+[02:06:20] [connection] incoming connection: 127.0.0.1:59372 id: 0
+[02:06:20] [join] Jcr_Isra has joined the server (0:127.0.0.1)
+[02:08:00] [part] Jcr_Isra has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:24:21] filterscripts = ""  (string)
+[02:24:21] 
+[02:24:21] Server Plugins
+[02:24:21] --------------
+[02:24:21]  Loading plugin: crashdetect.dll
+[02:24:21]   CrashDetect plugin 4.19.4
+[02:24:21]   Loaded.
+[02:24:21]  Loading plugin: sscanf.dll
+[02:24:21] 
+
+[02:24:21]  ===============================
+
+[02:24:21]       sscanf plugin loaded.     
+
+[02:24:21]          Version:  2.8.2        
+
+[02:24:21]    (c) 2012 Alex "Y_Less" Cole  
+
+[02:24:21]  ===============================
+
+[02:24:21]   Loaded.
+[02:24:21]  Loading plugin: mysql.dll
+[02:24:21]  >> plugin.mysql: R41-4 successfully loaded.
+[02:24:21]   Loaded.
+[02:24:21]  Loaded 3 plugins.
+
+[02:24:21] 
+[02:24:21] Filterscripts
+[02:24:21] ---------------
+[02:24:21]   Loaded 0 filterscripts.
+
+[02:24:21] Conexion a la base de datos exitosa
+[02:24:21] =======================================
+[02:24:21]   OverZone RP - Gamemode Inicializada  
+[02:24:21]   Nombre: OverZone
+[02:24:21]   Versi髇: Beta 1.0
+[02:24:21]   Autor: Jcr_Isra
+[02:24:21] =======================================
+[02:24:21] Number of vehicle models: 0
+[02:25:54] [connection] incoming connection: 127.0.0.1:53757 id: 0
+[02:25:54] [join] Jcr_Isra has joined the server (0:127.0.0.1)
+[02:28:14] [part] Jcr_Isra has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:41:56] filterscripts = ""  (string)
+[02:41:56] 
+[02:41:56] Server Plugins
+[02:41:56] --------------
+[02:41:56]  Loading plugin: crashdetect.dll
+[02:41:56]   CrashDetect plugin 4.19.4
+[02:41:56]   Loaded.
+[02:41:56]  Loading plugin: sscanf.dll
+[02:41:56] 
+
+[02:41:56]  ===============================
+
+[02:41:56]       sscanf plugin loaded.     
+
+[02:41:56]          Version:  2.8.2        
+
+[02:41:56]    (c) 2012 Alex "Y_Less" Cole  
+
+[02:41:56]  ===============================
+
+[02:41:56]   Loaded.
+[02:41:56]  Loading plugin: mysql.dll
+[02:41:56]  >> plugin.mysql: R41-4 successfully loaded.
+[02:41:56]   Loaded.
+[02:41:56]  Loaded 3 plugins.
+
+[02:41:56] 
+[02:41:56] Filterscripts
+[02:41:56] ---------------
+[02:41:56]   Loaded 0 filterscripts.
+
+[02:41:56] Conexion a la base de datos exitosa
+[02:41:56] =======================================
+[02:41:56]   OverZone RP - Gamemode Inicializada  
+[02:41:56]   Nombre: OverZone
+[02:41:56]   Versi髇: Beta 1.0
+[02:41:56]   Autor: Jcr_Isra
+[02:41:56] =======================================
+[02:41:56] Number of vehicle models: 0
+[02:42:24] [connection] incoming connection: 127.0.0.1:62509 id: 0
+[02:42:24] [join] Jcr_Isra has joined the server (0:127.0.0.1)
+[02:44:12] [part] Jcr_Isra has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:48:21] filterscripts = ""  (string)
+[02:48:21] 
+[02:48:21] Server Plugins
+[02:48:21] --------------
+[02:48:21]  Loading plugin: crashdetect.dll
+[02:48:21]   CrashDetect plugin 4.19.4
+[02:48:21]   Loaded.
+[02:48:21]  Loading plugin: sscanf.dll
+[02:48:21] 
+
+[02:48:21]  ===============================
+
+[02:48:21]       sscanf plugin loaded.     
+
+[02:48:21]          Version:  2.8.2        
+
+[02:48:21]    (c) 2012 Alex "Y_Less" Cole  
+
+[02:48:21]  ===============================
+
+[02:48:21]   Loaded.
+[02:48:21]  Loading plugin: mysql.dll
+[02:48:21]  >> plugin.mysql: R41-4 successfully loaded.
+[02:48:21]   Loaded.
+[02:48:21]  Loaded 3 plugins.
+
+[02:48:21] 
+[02:48:21] Filterscripts
+[02:48:21] ---------------
+[02:48:21]   Loaded 0 filterscripts.
+
+[02:48:21] Conexion a la base de datos exitosa
+[02:48:21] =======================================
+[02:48:21]   OverZone RP - Gamemode Inicializada  
+[02:48:21]   Nombre: OverZone
+[02:48:21]   Versi髇: Beta 1.0
+[02:48:21]   Autor: Jcr_Isra
+[02:48:21] =======================================
+[02:48:21] Number of vehicle models: 0
+[02:48:53] [connection] incoming connection: 127.0.0.1:55842 id: 0
+[02:48:53] [join] Jcr_Isra has joined the server (0:127.0.0.1)
+[02:49:49] [part] Jcr_Isra has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[03:06:01] filterscripts = ""  (string)
+[03:06:01] 
+[03:06:01] Server Plugins
+[03:06:01] --------------
+[03:06:01]  Loading plugin: crashdetect.dll
+[03:06:01]   CrashDetect plugin 4.19.4
+[03:06:01]   Loaded.
+[03:06:01]  Loading plugin: sscanf.dll
+[03:06:01] 
+
+[03:06:01]  ===============================
+
+[03:06:01]       sscanf plugin loaded.     
+
+[03:06:01]          Version:  2.8.2        
+
+[03:06:01]    (c) 2012 Alex "Y_Less" Cole  
+
+[03:06:01]  ===============================
+
+[03:06:01]   Loaded.
+[03:06:01]  Loading plugin: mysql.dll
+[03:06:01]  >> plugin.mysql: R41-4 successfully loaded.
+[03:06:01]   Loaded.
+[03:06:01]  Loaded 3 plugins.
+
+[03:06:01] 
+[03:06:01] Filterscripts
+[03:06:01] ---------------
+[03:06:01]   Loaded 0 filterscripts.
+
+[03:06:01] Conexion a la base de datos exitosa
+[03:06:01] =======================================
+[03:06:01]   OverZone RP - Gamemode Inicializada  
+[03:06:01]   Nombre: OverZone
+[03:06:01]   Versi髇: Beta 1.0
+[03:06:01]   Autor: Jcr_Isra
+[03:06:01] =======================================
+[03:06:01] Number of vehicle models: 0
+[03:06:48] [connection] incoming connection: 127.0.0.1:63603 id: 0
+[03:06:49] [join] Jcr_Isra has joined the server (0:127.0.0.1)
+[03:08:29] [part] Jcr_Isra has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[03:15:37] filterscripts = ""  (string)
+[03:15:37] 
+[03:15:37] Server Plugins
+[03:15:37] --------------
+[03:15:37]  Loading plugin: crashdetect.dll
+[03:15:37]   CrashDetect plugin 4.19.4
+[03:15:37]   Loaded.
+[03:15:37]  Loading plugin: sscanf.dll
+[03:15:37] 
+
+[03:15:37]  ===============================
+
+[03:15:37]       sscanf plugin loaded.     
+
+[03:15:37]          Version:  2.8.2        
+
+[03:15:37]    (c) 2012 Alex "Y_Less" Cole  
+
+[03:15:37]  ===============================
+
+[03:15:37]   Loaded.
+[03:15:37]  Loading plugin: mysql.dll
+[03:15:37]  >> plugin.mysql: R41-4 successfully loaded.
+[03:15:37]   Loaded.
+[03:15:37]  Loaded 3 plugins.
+
+[03:15:37] 
+[03:15:37] Filterscripts
+[03:15:37] ---------------
+[03:15:37]   Loaded 0 filterscripts.
+
+[03:15:37] Conexion a la base de datos exitosa
+[03:15:37] =======================================
+[03:15:37]   OverZone RP - Gamemode Inicializada  
+[03:15:37]   Nombre: OverZone
+[03:15:37]   Versi髇: Beta 1.0
+[03:15:37]   Autor: Jcr_Isra
+[03:15:37] =======================================
+[03:15:37] Number of vehicle models: 0
+[03:16:17] [connection] incoming connection: 127.0.0.1:58492 id: 0
+[03:16:19] [join] Jcr_Isra has joined the server (0:127.0.0.1)
+[03:18:29] [part] Jcr_Isra has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[03:36:55] filterscripts = ""  (string)
+[03:36:55] 
+[03:36:55] Server Plugins
+[03:36:55] --------------
+[03:36:55]  Loading plugin: crashdetect.dll
+[03:36:55]   CrashDetect plugin 4.19.4
+[03:36:55]   Loaded.
+[03:36:55]  Loading plugin: sscanf.dll
+[03:36:55] 
+
+[03:36:55]  ===============================
+
+[03:36:55]       sscanf plugin loaded.     
+
+[03:36:55]          Version:  2.8.2        
+
+[03:36:55]    (c) 2012 Alex "Y_Less" Cole  
+
+[03:36:55]  ===============================
+
+[03:36:55]   Loaded.
+[03:36:55]  Loading plugin: mysql.dll
+[03:36:55]  >> plugin.mysql: R41-4 successfully loaded.
+[03:36:55]   Loaded.
+[03:36:55]  Loaded 3 plugins.
+
+[03:36:55] 
+[03:36:55] Filterscripts
+[03:36:55] ---------------
+[03:36:55]   Loaded 0 filterscripts.
+
+[03:36:55] Conexion a la base de datos exitosa
+[03:36:55] =======================================
+[03:36:55]   OverZone RP - Gamemode Inicializada  
+[03:36:55]   Nombre: OverZone
+[03:36:55]   Versi髇: Beta 1.0
+[03:36:55]   Autor: JCR
+[03:36:55]   Desarrollado por: JCR
+[03:36:55] =======================================
+[03:36:55] ALERTA: El encabezado del Main ha sido alterado.
+[03:36:55] Number of vehicle models: 0
+[03:36:55] --- Server Shutting Down.
+[03:36:55] 
+
+[03:36:55]  ===============================
+
+[03:36:55]      sscanf plugin unloaded.    
+
+[03:36:55]  ===============================
+
+[03:36:55] plugin.mysql: Unloading plugin...
+[03:36:55] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[03:36:58] filterscripts = ""  (string)
+[03:36:58] 
+[03:36:58] Server Plugins
+[03:36:58] --------------
+[03:36:58]  Loading plugin: crashdetect.dll
+[03:36:58]   CrashDetect plugin 4.19.4
+[03:36:58]   Loaded.
+[03:36:58]  Loading plugin: sscanf.dll
+[03:36:58] 
+
+[03:36:58]  ===============================
+
+[03:36:58]       sscanf plugin loaded.     
+
+[03:36:58]          Version:  2.8.2        
+
+[03:36:58]    (c) 2012 Alex "Y_Less" Cole  
+
+[03:36:58]  ===============================
+
+[03:36:58]   Loaded.
+[03:36:58]  Loading plugin: mysql.dll
+[03:36:58]  >> plugin.mysql: R41-4 successfully loaded.
+[03:36:58]   Loaded.
+[03:36:58]  Loaded 3 plugins.
+
+[03:36:58] 
+[03:36:58] Filterscripts
+[03:36:58] ---------------
+[03:36:58]   Loaded 0 filterscripts.
+
+[03:36:58] Conexion a la base de datos exitosa
+[03:36:58] =======================================
+[03:36:58]   OverZone RP - Gamemode Inicializada  
+[03:36:58]   Nombre: OverZone
+[03:36:58]   Versi髇: Beta 1.0
+[03:36:58]   Autor: JCR
+[03:36:58]   Desarrollado por: JCR
+[03:36:58] =======================================
+[03:36:58] ALERTA: El encabezado del Main ha sido alterado.
+[03:36:58] Number of vehicle models: 0
+[03:36:58] --- Server Shutting Down.
+[03:36:58] 
+
+[03:36:58]  ===============================
+
+[03:36:58]      sscanf plugin unloaded.    
+
+[03:36:58]  ===============================
+
+[03:36:58] plugin.mysql: Unloading plugin...
+[03:36:58] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[03:36:59] filterscripts = ""  (string)
+[03:36:59] 
+[03:36:59] Server Plugins
+[03:36:59] --------------
+[03:36:59]  Loading plugin: crashdetect.dll
+[03:36:59]   CrashDetect plugin 4.19.4
+[03:36:59]   Loaded.
+[03:36:59]  Loading plugin: sscanf.dll
+[03:36:59] 
+
+[03:36:59]  ===============================
+
+[03:36:59]       sscanf plugin loaded.     
+
+[03:36:59]          Version:  2.8.2        
+
+[03:36:59]    (c) 2012 Alex "Y_Less" Cole  
+
+[03:36:59]  ===============================
+
+[03:36:59]   Loaded.
+[03:36:59]  Loading plugin: mysql.dll
+[03:36:59]  >> plugin.mysql: R41-4 successfully loaded.
+[03:36:59]   Loaded.
+[03:36:59]  Loaded 3 plugins.
+
+[03:36:59] 
+[03:36:59] Filterscripts
+[03:36:59] ---------------
+[03:36:59]   Loaded 0 filterscripts.
+
+[03:36:59] Conexion a la base de datos exitosa
+[03:36:59] =======================================
+[03:36:59]   OverZone RP - Gamemode Inicializada  
+[03:36:59]   Nombre: OverZone
+[03:36:59]   Versi髇: Beta 1.0
+[03:36:59]   Autor: JCR
+[03:36:59]   Desarrollado por: JCR
+[03:36:59] =======================================
+[03:36:59] ALERTA: El encabezado del Main ha sido alterado.
+[03:36:59] Number of vehicle models: 0
+[03:36:59] --- Server Shutting Down.
+[03:36:59] 
+
+[03:36:59]  ===============================
+
+[03:36:59]      sscanf plugin unloaded.    
+
+[03:36:59]  ===============================
+
+[03:36:59] plugin.mysql: Unloading plugin...
+[03:36:59] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[03:37:00] filterscripts = ""  (string)
+[03:37:00] 
+[03:37:00] Server Plugins
+[03:37:00] --------------
+[03:37:00]  Loading plugin: crashdetect.dll
+[03:37:00]   CrashDetect plugin 4.19.4
+[03:37:00]   Loaded.
+[03:37:00]  Loading plugin: sscanf.dll
+[03:37:00] 
+
+[03:37:00]  ===============================
+
+[03:37:00]       sscanf plugin loaded.     
+
+[03:37:00]          Version:  2.8.2        
+
+[03:37:00]    (c) 2012 Alex "Y_Less" Cole  
+
+[03:37:00]  ===============================
+
+[03:37:00]   Loaded.
+[03:37:00]  Loading plugin: mysql.dll
+[03:37:00]  >> plugin.mysql: R41-4 successfully loaded.
+[03:37:00]   Loaded.
+[03:37:00]  Loaded 3 plugins.
+
+[03:37:00] 
+[03:37:00] Filterscripts
+[03:37:00] ---------------
+[03:37:00]   Loaded 0 filterscripts.
+
+[03:37:00] Conexion a la base de datos exitosa
+[03:37:00] =======================================
+[03:37:00]   OverZone RP - Gamemode Inicializada  
+[03:37:00]   Nombre: OverZone
+[03:37:00]   Versi髇: Beta 1.0
+[03:37:00]   Autor: JCR
+[03:37:00]   Desarrollado por: JCR
+[03:37:00] =======================================
+[03:37:00] ALERTA: El encabezado del Main ha sido alterado.
+[03:37:00] Number of vehicle models: 0
+[03:37:00] --- Server Shutting Down.
+[03:37:00] 
+
+[03:37:00]  ===============================
+
+[03:37:00]      sscanf plugin unloaded.    
+
+[03:37:00]  ===============================
+
+[03:37:00] plugin.mysql: Unloading plugin...
+[03:37:00] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[03:37:00] filterscripts = ""  (string)
+[03:37:00] 
+[03:37:00] Server Plugins
+[03:37:00] --------------
+[03:37:00]  Loading plugin: crashdetect.dll
+[03:37:00]   CrashDetect plugin 4.19.4
+[03:37:00]   Loaded.
+[03:37:00]  Loading plugin: sscanf.dll
+[03:37:00] 
+
+[03:37:00]  ===============================
+
+[03:37:00]       sscanf plugin loaded.     
+
+[03:37:00]          Version:  2.8.2        
+
+[03:37:00]    (c) 2012 Alex "Y_Less" Cole  
+
+[03:37:00]  ===============================
+
+[03:37:00]   Loaded.
+[03:37:00]  Loading plugin: mysql.dll
+[03:37:00]  >> plugin.mysql: R41-4 successfully loaded.
+[03:37:00]   Loaded.
+[03:37:00]  Loaded 3 plugins.
+
+[03:37:00] 
+[03:37:00] Filterscripts
+[03:37:00] ---------------
+[03:37:00]   Loaded 0 filterscripts.
+
+[03:37:00] Conexion a la base de datos exitosa
+[03:37:00] =======================================
+[03:37:00]   OverZone RP - Gamemode Inicializada  
+[03:37:00]   Nombre: OverZone
+[03:37:00]   Versi髇: Beta 1.0
+[03:37:00]   Autor: JCR
+[03:37:00]   Desarrollado por: JCR
+[03:37:00] =======================================
+[03:37:00] ALERTA: El encabezado del Main ha sido alterado.
+[03:37:00] Number of vehicle models: 0
+[03:37:00] --- Server Shutting Down.
+[03:37:00] 
+
+[03:37:00]  ===============================
+
+[03:37:00]      sscanf plugin unloaded.    
+
+[03:37:00]  ===============================
+
+[03:37:00] plugin.mysql: Unloading plugin...
+[03:37:00] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[03:37:24] filterscripts = ""  (string)
+[03:37:24] 
+[03:37:24] Server Plugins
+[03:37:24] --------------
+[03:37:24]  Loading plugin: crashdetect.dll
+[03:37:24]   CrashDetect plugin 4.19.4
+[03:37:24]   Loaded.
+[03:37:24]  Loading plugin: sscanf.dll
+[03:37:24] 
+
+[03:37:24]  ===============================
+
+[03:37:24]       sscanf plugin loaded.     
+
+[03:37:24]          Version:  2.8.2        
+
+[03:37:24]    (c) 2012 Alex "Y_Less" Cole  
+
+[03:37:24]  ===============================
+
+[03:37:24]   Loaded.
+[03:37:24]  Loading plugin: mysql.dll
+[03:37:24]  >> plugin.mysql: R41-4 successfully loaded.
+[03:37:24]   Loaded.
+[03:37:24]  Loaded 3 plugins.
+
+[03:37:24] 
+[03:37:24] Filterscripts
+[03:37:24] ---------------
+[03:37:24]   Loaded 0 filterscripts.
+
+[03:37:24] Conexion a la base de datos exitosa
+[03:37:24] =======================================
+[03:37:24]   OverZone RP - Gamemode Inicializada  
+[03:37:24]   Nombre: OverZone
+[03:37:24]   Versi髇: Beta 1.0
+[03:37:24]   Autor: Jcr_Isra
+[03:37:24] =======================================
+[03:37:24] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[03:38:35] filterscripts = ""  (string)
+[03:38:35] 
+[03:38:35] Server Plugins
+[03:38:35] --------------
+[03:38:35]  Loading plugin: crashdetect.dll
+[03:38:35]   CrashDetect plugin 4.19.4
+[03:38:35]   Loaded.
+[03:38:35]  Loading plugin: sscanf.dll
+[03:38:35] 
+
+[03:38:35]  ===============================
+
+[03:38:35]       sscanf plugin loaded.     
+
+[03:38:35]          Version:  2.8.2        
+
+[03:38:35]    (c) 2012 Alex "Y_Less" Cole  
+
+[03:38:35]  ===============================
+
+[03:38:35]   Loaded.
+[03:38:35]  Loading plugin: mysql.dll
+[03:38:35]  >> plugin.mysql: R41-4 successfully loaded.
+[03:38:35]   Loaded.
+[03:38:35]  Loaded 3 plugins.
+
+[03:38:35] 
+[03:38:35] Filterscripts
+[03:38:35] ---------------
+[03:38:35]   Loaded 0 filterscripts.
+
+[03:38:35] Conexion a la base de datos exitosa
+[03:38:35] Iniciando sistema de seguridad...
+[03:38:35] =======================================
+[03:38:35]   OverZone RP - Gamemode Inicializada  
+[03:38:35]   Nombre: OverZone
+[03:38:35]   Versi髇: Beta 1.0
+[03:38:35]   Autor: JCR
+[03:38:35]   Desarrollado por: JCR
+[03:38:35] =======================================
+[03:38:35] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[03:39:11] filterscripts = ""  (string)
+[03:39:11] 
+[03:39:11] Server Plugins
+[03:39:11] --------------
+[03:39:11]  Loading plugin: crashdetect.dll
+[03:39:11]   CrashDetect plugin 4.19.4
+[03:39:11]   Loaded.
+[03:39:11]  Loading plugin: sscanf.dll
+[03:39:11] 
+
+[03:39:11]  ===============================
+
+[03:39:11]       sscanf plugin loaded.     
+
+[03:39:11]          Version:  2.8.2        
+
+[03:39:11]    (c) 2012 Alex "Y_Less" Cole  
+
+[03:39:11]  ===============================
+
+[03:39:11]   Loaded.
+[03:39:11]  Loading plugin: mysql.dll
+[03:39:11]  >> plugin.mysql: R41-4 successfully loaded.
+[03:39:11]   Loaded.
+[03:39:11]  Loaded 3 plugins.
+
+[03:39:11] 
+[03:39:11] Filterscripts
+[03:39:11] ---------------
+[03:39:11]   Loaded 0 filterscripts.
+
+[03:39:11] Conexion a la base de datos exitosa
+[03:39:11] Iniciando sistema de seguridad...
+[03:39:11] *************************************************
+[03:39:11] * ERROR: LA GAMEMODE HA SIDO MODIFICADA         *
+[03:39:11] * EL SERVIDOR NO PUEDE INICIAR SIN CREDITOS     *
+[03:39:11] *************************************************
+[03:39:11] Number of vehicle models: 0
+[03:39:11] --- Server Shutting Down.
+[03:39:11] 
+
+[03:39:11]  ===============================
+
+[03:39:11]      sscanf plugin unloaded.    
+
+[03:39:11]  ===============================
+
+[03:39:11] plugin.mysql: Unloading plugin...
+[03:39:11] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[03:45:21] filterscripts = ""  (string)
+[03:45:21] 
+[03:45:21] Server Plugins
+[03:45:21] --------------
+[03:45:21]  Loading plugin: crashdetect.dll
+[03:45:21]   CrashDetect plugin 4.19.4
+[03:45:21]   Loaded.
+[03:45:21]  Loading plugin: sscanf.dll
+[03:45:21] 
+
+[03:45:21]  ===============================
+
+[03:45:21]       sscanf plugin loaded.     
+
+[03:45:21]          Version:  2.8.2        
+
+[03:45:21]    (c) 2012 Alex "Y_Less" Cole  
+
+[03:45:21]  ===============================
+
+[03:45:21]   Loaded.
+[03:45:21]  Loading plugin: mysql.dll
+[03:45:21]  >> plugin.mysql: R41-4 successfully loaded.
+[03:45:21]   Loaded.
+[03:45:21]  Loaded 3 plugins.
+
+[03:45:21] 
+[03:45:21] Filterscripts
+[03:45:21] ---------------
+[03:45:21]   Loaded 0 filterscripts.
+
+[03:45:21] Conexion a la base de datos exitosa
+[03:45:21] =======================================
+[03:45:21]   OverZone RP - Gamemode Inicializada  
+[03:45:21]   Nombre: OverZone
+[03:45:21]   Versi髇: Beta 1.0
+[03:45:21]   Autor: JCR
+[03:45:21]   Desarrollado por: JCR
+[03:45:21] =======================================
+[03:45:21] Number of vehicle models: 0
