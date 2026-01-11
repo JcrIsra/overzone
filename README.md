@@ -31,7 +31,7 @@ Para garantizar la calidad y el soporte futuro de esta GameMode, se ha implement
 * **Proyecto:** OverZone Roleplay
 * **Colaboradores:** No hay colaboradores si quieres colaborar contactame al discord **jcr_isra**
 
-## ?? Licencia
+##  Licencia
 
 Al utilizar esta GameMode, aceptas mantener los créditos originales del autor visibles tanto en la consola del servidor como en los sistemas de información internos. La remoción de los mismos anula cualquier garantía de funcionamiento del código proporcionado.
 
