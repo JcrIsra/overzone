@@ -105,7 +105,8 @@ main()
     printf("  Nombre: %s", SERVER_NAME);
     printf("  Versión: %s", SERVER_VERSION);
     printf("  Autor: %s", dev_name);
-    printf("  Desarrollado por: %s", dev_name); 
+    printf("  Desarrollado por: %s", dev_name);
+    print("  Página: %s", SERVER_WEBSITE); 
     print("=======================================");
     
     return 1; 

@@ -15,17 +15,15 @@ public Help_OnDialogResponse(playerid, dialogid, response, listitem, inputtext[]
             default: return 1;
         }
     }
-
-    // Mensajes tipo MSGBOX no requieren selección adicional, solo cerrarlos aquí
     if (dialogid == DIALOG_HELP_GENERAL || dialogid == DIALOG_HELP_AUTOS
         || dialogid == DIALOG_HELP_HOUSES || dialogid == DIALOG_HELP_JOBS
         || dialogid == DIALOG_HELP_BAND)
     {
-        // Si quieres reaccionar al botón "Cerrar", lo harías aquí.
+    
         return 1;
     }
 
-    return 0; // no manejado por este módulo
+    return 0; 
 }
 
 // -------------------------------------------------

@@ -27,7 +27,9 @@ CMD:estadisticas(playerid, params[])
     ShowEst(playerid, target);
     return 1;
 }
+// --- FIN CMD --- //
 
+// --- FUNCIONES --- //
 stock ShowEst(viewer, target)
 {
     if (!IsPlayerConnected(target)) return 0;
@@ -68,3 +70,4 @@ stock ShowEst(viewer, target)
     ShowPlayerDialog(viewer, DIALOG_STATS, DIALOG_STYLE_MSGBOX, "{00FF00}> {FFFFFF}Hoja de Personaje", info, "Cerrar", "");
     return 1;
 }
+// --- FIN FUNCIONES --- //
