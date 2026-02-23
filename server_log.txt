@@ -3777,3 +3777,63 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [20:41:03] [connection] incoming connection: 127.0.0.1:51991 id: 0
 [20:41:03] [join] Jcr_Isra has joined the server (0:127.0.0.1)
 [20:41:18] [part] Jcr_Isra has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:43:30] 
+[20:43:30] Server Plugins
+[20:43:30] --------------
+[20:43:30]  Loading plugin: crashdetect.dll
+[20:43:30]   CrashDetect plugin 4.19.4
+[20:43:30]   Loaded.
+[20:43:30]  Loading plugin: sscanf.dll
+[20:43:30] 
+
+[20:43:30]  ===============================
+
+[20:43:30]       sscanf plugin loaded.     
+
+[20:43:30]          Version:  2.8.2        
+
+[20:43:30]    (c) 2012 Alex "Y_Less" Cole  
+
+[20:43:30]  ===============================
+
+[20:43:30]   Loaded.
+[20:43:30]  Loading plugin: mysql.dll
+[20:43:30]  >> plugin.mysql: R41-4 successfully loaded.
+[20:43:30]   Loaded.
+[20:43:30]  Loading plugin: streamer.dll
+[20:43:30] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[20:43:30]   Loaded.
+[20:43:30]  Loaded 4 plugins.
+
+[20:43:30] 
+[20:43:30] Filterscripts
+[20:43:30] ---------------
+[20:43:30]   Loaded 0 filterscripts.
+
+[20:43:30] Conexion a la base de datos exitosa
+[20:43:30] =======================================
+[20:43:30]   OverZone RP - Gamemode Inicializada  
+[20:43:30]   Nombre: OverZone
+[20:43:30]   Versión: Beta 1.2.1
+[20:43:30]   Autor: JCR
+[20:43:30]   Desarrollado por: JCR
+[20:43:30] =======================================
+[20:43:30] Number of vehicle models: 0
+[20:43:58] [connection] incoming connection: 127.0.0.1:59275 id: 0
+[20:43:58] [join] Jcr_Isra has joined the server (0:127.0.0.1)
+[20:44:31] [part] Jcr_Isra has left the server (0:1)
+[20:47:22] [connection] incoming connection: 127.0.0.1:51779 id: 0
+[20:47:22] [join] Jcr_Isra has joined the server (0:127.0.0.1)
+[20:48:09] [part] Jcr_Isra has left the server (0:1)
